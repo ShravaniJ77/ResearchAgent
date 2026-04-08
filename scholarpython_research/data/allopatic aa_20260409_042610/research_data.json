@@ -1,0 +1,2032 @@
+{
+  "type": "complete",
+  "papers": [
+    {
+      "paperId": "7592c30553798b4477351a56261bf879881c24f8",
+      "title": "AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP",
+      "year": 2025,
+      "citationCount": 65,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2503.06661, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2343033354",
+          "name": "Wenxin Ma"
+        },
+        {
+          "authorId": "2349364757",
+          "name": "Xu Zhang"
+        },
+        {
+          "authorId": "2268751822",
+          "name": "Qingsong Yao"
+        },
+        {
+          "authorId": "2140487415",
+          "name": "Fenghe Tang"
+        },
+        {
+          "authorId": "2342313010",
+          "name": "Chenxu Wu"
+        },
+        {
+          "authorId": "2276446347",
+          "name": "Yingtai Li"
+        },
+        {
+          "authorId": "2349379701",
+          "name": "Rui Yan"
+        },
+        {
+          "authorId": "2275748127",
+          "name": "Zihang Jiang"
+        },
+        {
+          "authorId": "2275759563",
+          "name": "S.Kevin Zhou"
+        }
+      ],
+      "abstract": "Anomaly detection (AD) identifies outliers for applications like defect and lesion detection. While CLIP shows promise for zero-shot AD tasks due to its strong generalization capabilities, its inherent Anomaly-Unawareness leads to limited discrimination between normal and abnormal features. To address this problem, we propose Anomaly-Aware CLIP (AA-CLIP), which enhances CLIP's anomaly discrimination ability in both text and visual spaces while preserving its generalization capability. AA-CLIP is achieved through a straightforward yet effective two-stage approach: it first creates anomaly-aware text anchors to differentiate normal and abnormal semantics clearly, then aligns patch-level visual features with these anchors for precise anomaly localization. This two-stage strategy, with the help of residual adapters, gradually adapts CLIP in a controlled manner, achieving effective AD while maintaining CLIP's class knowledge. Extensive experiments validate AA-CLIP as a resource-efficient solution for zero-shot AD tasks, achieving state-of-the-art results in industrial and medical applications. The code is available at https://github.com/Mwxinnn/AA-CLIP.",
+      "author_str": "Wenxin Ma, Xu Zhang, Qingsong Yao",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6dee62a02fe2e5511e68dc6d3ec199af3f2e5fe2",
+      "title": "AA Amyloidosis: A Contemporary View",
+      "year": 2024,
+      "citationCount": 28,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s11926-024-01147-8.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11219434, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "14937588",
+          "name": "Ş. Mirioğlu"
+        },
+        {
+          "authorId": "15568724",
+          "name": "O. Uludag"
+        },
+        {
+          "authorId": "14723996",
+          "name": "O. Hurdogan"
+        },
+        {
+          "authorId": "41096277",
+          "name": "G. Kumru"
+        },
+        {
+          "authorId": "2283751147",
+          "name": "Ilay Berke"
+        },
+        {
+          "authorId": "2106657517",
+          "name": "S. Doumas"
+        },
+        {
+          "authorId": "2261607038",
+          "name": "Eleni Frangou"
+        },
+        {
+          "authorId": "2242917542",
+          "name": "Ahmet Gul"
+        }
+      ],
+      "abstract": "Amyloid A (AA) amyloidosis is an organ- or life-threatening complication of chronic inflammatory disorders. Here, we review the epidemiology, causes, pathogenesis, clinical features, and diagnostic and therapeutic strategies of AA amyloidosis. The incidence of AA amyloidosis has declined due to better treatment of the underlying diseases. Histopathological examination is the gold standard of diagnosis, but magnetic resonance imaging can be used to detect cardiac involvement. There is yet no treatment option for the clearance of amyloid fibril deposits; therefore, the management strategy primarily aims to reduce serum amyloid A protein. Anti-inflammatory biologic agents have drastically expanded our therapeutic armamentarium. Kidney transplantation is preferred in patients with kidney failure, and the recurrence of amyloidosis in the allograft has become rare as transplant recipients have started to benefit from the new agents. The management of AA amyloidosis has been considerably changed over the recent years due to the novel therapeutic options aiming to control inflammatory activity. New agents capable of clearing amyloid deposits from the tissues are still needed.",
+      "author_str": "Ş. Mirioğlu, O. Uludag, O. Hurdogan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8c6489f81385b7781b71a56913a33f8a48c0f499",
+      "title": "ADNP dysregulates methylation and mitochondrial gene expression in the cerebellum of a Helsmoortel–Van der Aa syndrome autopsy case",
+      "year": 2024,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "https://actaneurocomms.biomedcentral.com/counter/pdf/10.1186/s40478-024-01743-w",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11027339, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2229598673",
+          "name": "Acta Neuropathologica"
+        },
+        {
+          "authorId": "1446554331",
+          "name": "C. D’Incal"
+        },
+        {
+          "authorId": "31170458",
+          "name": "A. Dijck"
+        },
+        {
+          "authorId": "2278710117",
+          "name": "Joe Ibrahim"
+        },
+        {
+          "authorId": "2277696829",
+          "name": "Kevin De Man"
+        },
+        {
+          "authorId": "2297195184",
+          "name": "Lina Bastini"
+        },
+        {
+          "authorId": "2212060035",
+          "name": "Anthony Konings"
+        },
+        {
+          "authorId": "2281321064",
+          "name": "Ellen Elinck"
+        },
+        {
+          "authorId": "2142849641",
+          "name": "Claudia Theys"
+        },
+        {
+          "authorId": "2272236364",
+          "name": "Illana Gozes"
+        },
+        {
+          "authorId": "2237330501",
+          "name": "Z. Marušić"
+        },
+        {
+          "authorId": "32214580",
+          "name": "M. Anicic"
+        },
+        {
+          "authorId": "2260979397",
+          "name": "Jurica Vuković"
+        },
+        {
+          "authorId": "2327541229",
+          "name": "Nathalie Van der Aa"
+        },
+        {
+          "authorId": "2281319849",
+          "name": "Ligia Mateiu"
+        },
+        {
+          "authorId": "2869122",
+          "name": "W. V. Berghe"
+        },
+        {
+          "authorId": "2169477952",
+          "name": "R. Kooy"
+        }
+      ],
+      "abstract": "Background Helsmoortel–Van der Aa syndrome is a neurodevelopmental disorder in which patients present with autism, intellectual disability, and frequent extra-neurological features such as feeding and gastrointestinal problems, visual impairments, and cardiac abnormalities. All patients exhibit heterozygous de novo nonsense or frameshift stop mutations in the Activity-Dependent Neuroprotective Protein ( ADNP ) gene, accounting for a prevalence of 0.2% of all autism cases worldwide. ADNP fulfills an essential chromatin remodeling function during brain development. In this study, we investigated the cerebellum of a died 6-year-old male patient with the c.1676dupA/p.His559Glnfs*3 ADNP mutation. Results The clinical presentation of the patient was representative of the Helsmoortel–Van der Aa syndrome. During his lifespan, he underwent two liver transplantations after which the child died because of multiple organ failure. An autopsy was performed, and various tissue samples were taken for further analysis. We performed a molecular characterization of the cerebellum, a brain region involved in motor coordination, known for its highest ADNP expression and compared it to an age-matched control subject. Importantly, epigenome-wide analysis of the ADNP cerebellum identified CpG methylation differences and expression of multiple pathways causing neurodevelopmental delay. Interestingly, transcription factor motif enrichment analysis of differentially methylated genes showed that the ADNP binding motif was the most significantly enriched. RNA sequencing of the autopsy brain further identified downregulation of the WNT signaling pathway and autophagy defects as possible causes of neurodevelopmental delay. Ultimately, label-free quantification mass spectrometry identified differentially expressed proteins involved in mitochondrial stress and sirtuin signaling pathways amongst others. Protein–protein interaction analysis further revealed a network including chromatin remodelers (ADNP, SMARCC2, HDAC2 and YY1), autophagy-related proteins (LAMP1, BECN1 and LC3) as well as a key histone deacetylating enzyme SIRT1, involved in mitochondrial energy metabolism. The protein interaction of ADNP with SIRT1 was further biochemically validated through the microtubule-end binding proteins EB1/EB3 by direct co-immunoprecipitation in mouse cerebellum, suggesting important mito-epigenetic crosstalk between chromatin remodeling and mitochondrial energy metabolism linked to autophagy stress responses. This is further supported by mitochondrial activity assays and stainings in patient-derived fibroblasts which suggest mitochondrial dysfunctions in the ADNP deficient human brain. Conclusion This study forms the baseline clinical and molecular characterization of an ADNP autopsy cerebellum, providing novel insights in the disease mechanisms of the Helsmoortel–Van der Aa syndrome. By combining multi-omic and biochemical approaches, we identified a novel SIRT1-EB1/EB3-ADNP protein complex which may contribute to autophagic flux alterations and impaired mitochondrial metabolism in the Helsmoortel–Van der Aa syndrome and holds promise as a new therapeutic target. Graphical abstract The ADNP patient mutation affects genome-wide methylation and leads to neurodevelopmental abnormalities. The ADNP brain transcriptome reveals impaired neuronal differentiation and cellular homeostasis by aberrant signaling of the WNT pathway and autophagy process. ADNP forms a complex with SIRT1 through the microtubule end-binding proteins EB1 and EB3. Mitochondrial gene expression is impaired in the ADNP brain and patient-derived cellular models.",
+      "author_str": "Acta Neuropathologica, C. D’Incal, A. Dijck",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a35fa5a99e83433905d4c13f5fcf888859b75782",
+      "title": "NIA-AA Research Framework: Toward a biological definition of Alzheimer’s disease",
+      "year": 2018,
+      "citationCount": 1631,
+      "openAccessPdf": {
+        "url": "http://www.alzheimersanddementia.com/article/S1552526018300724/pdf",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5958625, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2416914779",
+          "name": "C. Jack"
+        },
+        {
+          "authorId": "2422447448",
+          "name": "David A. Bennett"
+        },
+        {
+          "authorId": "2253035781",
+          "name": "K. Blennow"
+        },
+        {
+          "authorId": "2247953418",
+          "name": "Maria C. Carrillo"
+        },
+        {
+          "authorId": "2312366790",
+          "name": "Billy Dunn"
+        },
+        {
+          "authorId": "6959458",
+          "name": "S. Haeberlein"
+        },
+        {
+          "authorId": "2257825882",
+          "name": "David M. Holtzman"
+        },
+        {
+          "authorId": "2411047049",
+          "name": "W. Jagust"
+        },
+        {
+          "authorId": "2250570944",
+          "name": "F. Jessen"
+        },
+        {
+          "authorId": "2241935198",
+          "name": "Jason Karlawish"
+        },
+        {
+          "authorId": "2271633661",
+          "name": "Enchi Liu"
+        },
+        {
+          "authorId": "3620764",
+          "name": "J. Molinuevo"
+        },
+        {
+          "authorId": "152494843",
+          "name": "T. Montine"
+        },
+        {
+          "authorId": "2272205934",
+          "name": "C. Phelps"
+        },
+        {
+          "authorId": "2920066",
+          "name": "Katherine P. Rankin"
+        },
+        {
+          "authorId": "2381885598",
+          "name": "Christopher C. Rowe"
+        },
+        {
+          "authorId": "2238488563",
+          "name": "P. Scheltens"
+        },
+        {
+          "authorId": "2249066372",
+          "name": "Eric R. Siemers"
+        },
+        {
+          "authorId": "34867071",
+          "name": "H. Snyder"
+        },
+        {
+          "authorId": "2289371",
+          "name": "R. Sperling"
+        }
+      ],
+      "abstract": "In 2011, the National Institute on Aging and Alzheimer's Association created separate diagnostic recommendations for the preclinical, mild cognitive impairment, and dementia stages of Alzheimer's disease. Scientific progress in the interim led to an initiative by the National Institute on Aging and Alzheimer's Association to update and unify the 2011 guidelines. This unifying update is labeled a “research framework” because its intended use is for observational and interventional research, not routine clinical care. In the National Institute on Aging and Alzheimer's Association Research Framework, Alzheimer's disease (AD) is defined by its underlying pathologic processes that can be documented by postmortem examination or in vivo by biomarkers. The diagnosis is not based on the clinical consequences of the disease (i.e., symptoms/signs) in this research framework, which shifts the definition of AD in living people from a syndromal to a biological construct. The research framework focuses on the diagnosis of AD with biomarkers in living persons. Biomarkers are grouped into those of β amyloid deposition, pathologic tau, and neurodegeneration [AT(N)]. This ATN classification system groups different biomarkers (imaging and biofluids) by the pathologic process each measures. The AT(N) system is flexible in that new biomarkers can be added to the three existing AT(N) groups, and new biomarker groups beyond AT(N) can be added when they become available. We focus on AD as a continuum, and cognitive staging may be accomplished using continuous measures. However, we also outline two different categorical cognitive schemes for staging the severity of cognitive impairment: a scheme using three traditional syndromal categories and a six‐stage numeric scheme. It is important to stress that this framework seeks to create a common language with which investigators can generate and test hypotheses about the interactions among different pathologic processes (denoted by biomarkers) and cognitive symptoms. We appreciate the concern that this biomarker‐based research framework has the potential to be misused. Therefore, we emphasize, first, it is premature and inappropriate to use this research framework in general medical practice. Second, this research framework should not be used to restrict alternative approaches to hypothesis testing that do not use biomarkers. There will be situations where biomarkers are not available or requiring them would be counterproductive to the specific research goals (discussed in more detail later in the document). Thus, biomarker‐based research should not be considered a template for all research into age‐related cognitive impairment and dementia; rather, it should be applied when it is fit for the purpose of the specific research goals of a study. Importantly, this framework should be examined in diverse populations. Although it is possible that β‐amyloid plaques and neurofibrillary tau deposits are not causal in AD pathogenesis, it is these abnormal protein deposits that define AD as a unique neurodegenerative disease among different disorders that can lead to dementia. We envision that defining AD as a biological construct will enable a more accurate characterization and understanding of the sequence of events that lead to cognitive impairment that is associated with AD, as well as the multifactorial etiology of dementia. This approach also will enable a more precise approach to interventional trials where specific pathways can be targeted in the disease process and in the appropriate people.",
+      "author_str": "C. Jack, David A. Bennett, K. Blennow",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d0c8b04a7f2318b3f57d29501536dad3b5c11336",
+      "title": "AA-WGAN: Attention augmented Wasserstein generative adversarial network with application to fundus retinal vessel segmentation",
+      "year": 2023,
+      "citationCount": 51,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.compbiomed.2023.106874?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.compbiomed.2023.106874, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2214295647",
+          "name": "Meilin Liu"
+        },
+        {
+          "authorId": "2108454336",
+          "name": "Zidong Wang"
+        },
+        {
+          "authorId": "2145572628",
+          "name": "Han Li"
+        },
+        {
+          "authorId": "2173817926",
+          "name": "Peishu Wu"
+        },
+        {
+          "authorId": "2002831",
+          "name": "F. Alsaadi"
+        },
+        {
+          "authorId": "50561338",
+          "name": "Nianyin Zeng"
+        }
+      ],
+      "abstract": "In this paper, a novel attention augmented Wasserstein generative adversarial network (AA-WGAN) is proposed for fundus retinal vessel segmentation, where a U-shaped network with attention augmented convolution and squeeze-excitation module is designed to serve as the generator. In particular, the complex vascular structures make some tiny vessels hard to segment, while the proposed AA-WGAN can effectively handle such imperfect data property, which is competent in capturing the dependency among pixels in the whole image to highlight the regions of interests via the applied attention augmented convolution. By applying the squeeze-excitation module, the generator is able to pay attention to the important channels of the feature maps, and the useless information can be suppressed as well. In addition, gradient penalty method is adopted in the WGAN backbone to alleviate the phenomenon of generating large amounts of repeated images due to excessive concentration on accuracy. The proposed model is comprehensively evaluated on three datasets DRIVE, STARE, and CHASE_DB1, and the results show that the proposed AA-WGAN is a competitive vessel segmentation model as compared with several other advanced models, which obtains the accuracy of 96.51%, 97.19% and 96.94% on each dataset, respectively. The effectiveness of the applied important components is validated by ablation study, which also endows the proposed AA-WGAN with considerable generalization ability.",
+      "author_str": "Meilin Liu, Zidong Wang, Han Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e85588f71667dc946cf1c7c19db95a4a98b27631",
+      "title": "LigParGen web server: an automatic OPLS-AA parameter generator for organic ligands",
+      "year": 2017,
+      "citationCount": 1371,
+      "openAccessPdf": {
+        "url": "https://academic.oup.com/nar/article-pdf/45/W1/W331/23740908/gkx312.pdf",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5793816, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "13694452",
+          "name": "Leela S. Dodda"
+        },
+        {
+          "authorId": "40301824",
+          "name": "I. Vaca"
+        },
+        {
+          "authorId": "1397703310",
+          "name": "J. Tirado-Rives"
+        },
+        {
+          "authorId": "2107717",
+          "name": "W. L. Jorgensen"
+        }
+      ],
+      "abstract": "Abstract The accurate calculation of protein/nucleic acid–ligand interactions or condensed phase properties by force field-based methods require a precise description of the energetics of intermolecular interactions. Despite the progress made in force fields, small molecule parameterization remains an open problem due to the magnitude of the chemical space; the most critical issue is the estimation of a balanced set of atomic charges with the ability to reproduce experimental properties. The LigParGen web server provides an intuitive interface for generating OPLS-AA/1.14*CM1A(-LBCC) force field parameters for organic ligands, in the formats of commonly used molecular dynamics and Monte Carlo simulation packages. This server has high value for researchers interested in studying any phenomena based on intermolecular interactions with ligands via molecular mechanics simulations. It is free and open to all at jorgensenresearch.com/ligpargen, and has no login requirements.",
+      "author_str": "Leela S. Dodda, I. Vaca, J. Tirado-Rives",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d0d5893482a67d465d48d43ac8c7cfd6385684d3",
+      "title": "French practical guidelines for the diagnosis and management of AA amyloidosis.",
+      "year": 2023,
+      "citationCount": 25,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.revmed.2022.12.004",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.revmed.2022.12.004?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.revmed.2022.12.004, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1397221329",
+          "name": "S. Georgin-lavialle"
+        },
+        {
+          "authorId": "6863109",
+          "name": "L. Savey"
+        },
+        {
+          "authorId": "5566295",
+          "name": "D. Buob"
+        },
+        {
+          "authorId": "144876756",
+          "name": "J. Bastard"
+        },
+        {
+          "authorId": "4463107",
+          "name": "S. Fellahi"
+        },
+        {
+          "authorId": "3289414",
+          "name": "A. Karras"
+        },
+        {
+          "authorId": "79969058",
+          "name": "J. Boffa"
+        },
+        {
+          "authorId": "2070156813",
+          "name": "G. Grateau"
+        }
+      ],
+      "abstract": "AA amyloidosis is secondary to the deposit of excess insoluble Serum Amyloid A (SAA) protein fibrils. AA amyloidosis complicates chronic inflammatory diseases, especially chronic inflammatory rheumatisms such as rheumatoid arthritis and spondyloarthritis; chronic infections such as tuberculosis, bronchectasia, chronic inflammatory bowel diseases such as Crohn's disease; and auto-inflammatory diseases including familial Mediterranean fever. This work consists of the French guidelines for the diagnosis workup and treatment of AA amyloidosis. We estimate in France between 500 and 700 cases in the whole French population, affecting both men and women. The most frequent organ impaired is kidney which usually manifests by oedemas of the lower extremities, proteinuria, and/or renal failure. Patients are usually tired and can display digestive features anf thyroid goiter. The diagnosis of AA amyloidosis is based on detection of amyloid deposits on a biopsy using Congo Red staining with a characteristic green birefringence in polarized light. Immunohistochemical analysis with an antibody directed against Serum Amyloid A protein is essential to confirm the diagnosis of AA amyloidosis. Peripheral inflammatory biomarkers can be measured such as C Reactive protein and SAA. We propose an algorithm to guide the etiological diagnosis of AA amyloidosis. The treatement relies on the etiologic treatment of the undelying chronic inflammatory disease to decrease and/or normalize Serum Amyloid A protein concentration in order to stabilize amyloidosis. In case of renal failure, dialysis or even a kidney transplant can be porposed. Nowadays, there is currently no specific treatment for AA amyloidosis deposits which constitutes a therapeutic challenge for the future.",
+      "author_str": "S. Georgin-lavialle, L. Savey, D. Buob",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8052235c85f8d31ee450fffaa79d42ac0f4b91c6",
+      "title": "A Review on AA 6061 Metal Matrix Composites Produced by Stir Casting",
+      "year": 2021,
+      "citationCount": 222,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1944/14/1/175/pdf?version=1610002766",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7796217, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1857400279",
+          "name": "A. Kareem"
+        },
+        {
+          "authorId": "1682710",
+          "name": "J. A. Qudeiri"
+        },
+        {
+          "authorId": "1752866589",
+          "name": "Asarudheen Abdudeen"
+        },
+        {
+          "authorId": "134776303",
+          "name": "T. Ahammed"
+        },
+        {
+          "authorId": "88643324",
+          "name": "Aiman Ziout"
+        }
+      ],
+      "abstract": "In recent years, many alloys as well as composites of aluminium were developed for enhanced material performance. AA 6061 is an aluminium alloy that has extensive applications due to its superior material characteristics. It is a popular choice of matrix for aluminium matrix composite (AMC) fabrication. This study provides a review on AA 6061 aluminium alloy matrix composites produced through the stir-casting process. It focusses on conventional stir-casting fabrication, process parameters, various reinforcements used, and the mechanical properties of the AA 6061 composites. Several research studies indicated that the stir-casting method is widely used and suitable for fabricating AA 6061 composites with reinforcements such as SiC, B4C, Al2O3, TiC, as well as other inorganic, organic, hybrid, and nanomaterials. The majority of the studies showed that an increase in the reinforcement content enhanced the mechanical and tribological properties of the composites. Furthermore, hybrid composites showed better material properties than single reinforcement composites. The usage of industrial and agricultural residues in hybrid composites is also reported. Future studies could focus on the fabrication of AA 6061 nanocomposites through stir casting and their material characterisation, since they have great potential as advanced materials.",
+      "author_str": "A. Kareem, J. A. Qudeiri, Asarudheen Abdudeen",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "26f1f290a1532bb7c31f4c454b93df4847dcbc2e",
+      "title": "AA-RMVSNet: Adaptive Aggregation Recurrent Multi-view Stereo Network",
+      "year": 2021,
+      "citationCount": 191,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2108.03824",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2108.03824, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1451646416",
+          "name": "Zizhuang Wei"
+        },
+        {
+          "authorId": "1409972081",
+          "name": "Qingtian Zhu"
+        },
+        {
+          "authorId": "2061284215",
+          "name": "Chen Min"
+        },
+        {
+          "authorId": "2109292907",
+          "name": "Yisong Chen"
+        },
+        {
+          "authorId": "2285789756",
+          "name": "Guoping Wang"
+        }
+      ],
+      "abstract": "In this paper, we present a novel recurrent multi-view stereo network based on long short-term memory (LSTM) with adaptive aggregation, namely AA-RMVSNet. We firstly introduce an intra-view aggregation module to adaptively extract image features by using context-aware convolution and multi-scale aggregation, which efficiently improves the performance on challenging regions, such as thin objects and large low-textured surfaces. To overcome the difficulty of varying occlusion in complex scenes, we propose an interview cost volume aggregation module for adaptive pixel-wise view aggregation, which is able to preserve better-matched pairs among all views. The two proposed adaptive aggregation modules are lightweight, effective and complementary regarding improving the accuracy and completeness of 3D reconstruction. Instead of conventional 3D CNNs, we utilize a hybrid network with recurrent structure for cost volume regularization, which allows high-resolution reconstruction and finer hypothetical plane sweep. The proposed network is trained end-to-end and achieves excellent performance on various datasets. It ranks 1st among all submissions on Tanks and Temples benchmark and achieves competitive results on DTU dataset, which exhibits strong generalizability and robustness. Implementation of our method is available at https://github.com/QT-Zhu/AA-RMVSNet.",
+      "author_str": "Zizhuang Wei, Qingtian Zhu, Chen Min",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "33dc795c0660a6b27ebc0a5384ed07e22c2dcbcf",
+      "title": "A colorimetric smartphone-based sensor for on-site AA detection in tropical fruits using Fe-P/NC single-atom nanoenzyme.",
+      "year": 2022,
+      "citationCount": 65,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.foodchem.2022.135017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.foodchem.2022.135017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1687893",
+          "name": "Y. Li"
+        },
+        {
+          "authorId": "94967184",
+          "name": "R. Javed"
+        },
+        {
+          "authorId": "2150924419",
+          "name": "Rui Li"
+        },
+        {
+          "authorId": "2155337167",
+          "name": "Yuyang Zhang"
+        },
+        {
+          "authorId": "2191948439",
+          "name": "Ziyue Lang"
+        },
+        {
+          "authorId": "2157850364",
+          "name": "Hongbin Zhao"
+        },
+        {
+          "authorId": "2146035911",
+          "name": "Xing Liu"
+        },
+        {
+          "authorId": "2153244381",
+          "name": "Hongmei Cao"
+        },
+        {
+          "authorId": "13391724",
+          "name": "Daixin Ye"
+        }
+      ],
+      "abstract": "Ascorbic acid is one of the important vitamins to maintain human life activities and plays an irreplaceable role in regulating human redox metabolism. Fresh fruit can provide plenty of AA to maintain human metabolic balance. Thus, it is great significant to develop a rapid and convenient method for detection of AA to evaluate the freshness and nutritional quality of fruits. In this work, Fe single-atom nanoenzyme (Fe-SAN) based colorimetric sensor assisted with smartphone was designed for rapid and on-site AA detection in tropical fruits. Firstly, Fe-SAN with high oxidase-mimicking activity was synthesized by using green tea leaves as sources of carbon and nitrogen and NaH2PO2 as P source to obtain Fe-P/NC SAN, in which P was used to reconstruct the distribution of electronic to enhance the oxidase-mimicking activity of Fe-SAN. Besides, the as-synthesized Fe-P/NC SAN with remarkable oxidase-like activities could oxidize 3,3́,5,5́-tetramethylbenzidine (TMB) to blue colored oxidized TMB. AA could inhibit the oxidation of TMB, leading to blue fading. Based on the above principle, colorimetric sensor integrated with smartphone RGB mode was fabricated and exhibited a good linear detection range (0.5-100 μM) and low detection limit of 0.315 μM for AA detection under optimal conditions. More importantly, the developed sensor could rapidly and accurately detect AA in real sample, such as pineapple, wax apple and mango. Therefore, this research provides a new cost-effective method for the efficient and exact detection of AA in tropical fruit, which has a broad application prospect.",
+      "author_str": "Y. Li, R. Javed, Rui Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "edd80013e8b9fcba9231cf99884f32e5236ff329",
+      "title": "AA-TransUNet: Attention Augmented TransUNet For Nowcasting Tasks",
+      "year": 2022,
+      "citationCount": 58,
+      "openAccessPdf": {
+        "url": "https://dspace.library.uu.nl/bitstream/handle/1874/431791/AA-TransUNet_Attention_Augmented_TransUNet_For_Nowcasting_Tasks.pdf?sequence=1&isAllowed=y",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2202.04996, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2108776795",
+          "name": "Yimin Yang"
+        },
+        {
+          "authorId": "2950749",
+          "name": "S. Mehrkanoon"
+        }
+      ],
+      "abstract": "Data driven modeling based approaches have recently gained a lot of attention in many challenging meteoro-logical applications including weather element forecasting. This paper introduces a novel data-driven predictive model based on TransUNet for precipitation nowcasting task. The TransUNet model which combines the Transformer and U-Net models has been previously successfully applied in medical segmentation tasks. Here, TransUnet is used as a core model and is further equipped with Convolutional Block Attention Modules (CBAM) and Depthwise-separable Convolution (DSC). The proposed Attention Augmented TransUNet (AA- TransUNet) model is evaluated on two distinct datasets: the Dutch precipitation map dataset and the French cloud cover dataset. The obtained results show that the proposed model outperforms other examined models on both tested datasets. Furthermore, the uncertainty analysis of the proposed AA-TransUNet is provided to give additional insights on its predictions.",
+      "author_str": "Yimin Yang, S. Mehrkanoon",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c8aff4848d9c0803bf54b93cba3c8d8f5462789c",
+      "title": "Ti3C2Tx (MXene)/Pt nanoparticle electrode for the accurate detection of DA coexisting with AA and UA.",
+      "year": 2022,
+      "citationCount": 52,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1039/d2dt00110a?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1039/d2dt00110a, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "81928427",
+          "name": "You Xue"
+        },
+        {
+          "authorId": "31971624",
+          "name": "Yapeng Zheng"
+        },
+        {
+          "authorId": "8277198",
+          "name": "E. Wang"
+        },
+        {
+          "authorId": "2149225046",
+          "name": "Tao Yang"
+        },
+        {
+          "authorId": "2157845221",
+          "name": "Hongyang Wang"
+        },
+        {
+          "authorId": "145095036",
+          "name": "X. Hou"
+        }
+      ],
+      "abstract": "Dopamine (DA), uric acid (UA) and ascorbic acid (AA) are biomolecules widely distributed in the human body and play an important role in many physiological processes. An abnormal concentration of them is associated with various diseases. Thus, the accurate and fast detection of them has been one of the major demands in the healthcare industry. In this study, we demonstrate that Ti3C2Tx/PtNP modified glassy carbon electrodes (GCEs) show a good electrochemical performance in the detection of DA and UA. However, there is no response signal to AA for either the CV or DPV curve due to the electrostatic repulsion between the negatively charged electrode surface and the negatively charged AA. Ti3C2Tx(MXene)/Pt nanoparticles (PtNPs) are prepared by etching Ti3AlC2(MAX) with HF and reducing H2PtCl6 with a NaBH4 aqueous solution. The morphology of Ti3C2Tx/PtNPs is multilayered accordion-like Ti3C2Tx decorated with PtNPs with a diameter of 10-20 nm. Furthermore, it is found that the electrochemical detection of DA will be enhanced by AA. The electrochemical detection rule of AA enhanced DA can be expressed as follows: I(DA+AA) = 0.011216CAA + 0.039950CDA + 1.1175(I(DA+AA) is the peak current of DA coexisting with AA. CAA is the concentration of AA. CDA is the concentration of DA). This can be used as a calibration to correct the concentration of DA when AA and DA coexist. Notably, AA promotes the stability of the electrode because it cleans the oxidation products from the electrode surface in time. In addition, the sensor exhibits good reproducibility and satisfactory recovery results in a real sample.",
+      "author_str": "You Xue, Yapeng Zheng, E. Wang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "51a3a1d31d736d6b596d808a8a3ee57f04002163",
+      "title": "Attention-augmented U-Net (AA-U-Net) for semantic segmentation",
+      "year": 2022,
+      "citationCount": 49,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s11760-022-02302-3.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9311338, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2157963",
+          "name": "K. Rajamani"
+        },
+        {
+          "authorId": "145924431",
+          "name": "P. Rani"
+        },
+        {
+          "authorId": "2062823206",
+          "name": "H. Siebert"
+        },
+        {
+          "authorId": "2179256021",
+          "name": "Rajkumar ElagiriRamalingam"
+        },
+        {
+          "authorId": "1825371",
+          "name": "M. Heinrich"
+        }
+      ],
+      "abstract": "Deep learning-based image segmentation models rely strongly on capturing sufficient spatial context without requiring complex models that are hard to train with limited labeled data. For COVID-19 infection segmentation on CT images, training data are currently scarce. Attention models, in particular the most recent self-attention methods, have shown to help gather contextual information within deep networks and benefit semantic segmentation tasks. The recent attention-augmented convolution model aims to capture long range interactions by concatenating self-attention and convolution feature maps. This work proposes a novel attention-augmented convolution U-Net (AA-U-Net) that enables a more accurate spatial aggregation of contextual information by integrating attention-augmented convolution in the bottleneck of an encoder–decoder segmentation architecture. A deep segmentation network (U-Net) with this attention mechanism significantly improves the performance of semantic segmentation tasks on challenging COVID-19 lesion segmentation. The validation experiments show that the performance gain of the attention-augmented U-Net comes from their ability to capture dynamic and precise (wider) attention context. The AA-U-Net achieves Dice scores of 72.3% and 61.4% for ground-glass opacity and consolidation lesions for COVID-19 segmentation and improves the accuracy by 4.2% points against a baseline U-Net and 3.09% points compared to a baseline U-Net with matched parameters.",
+      "author_str": "K. Rajamani, P. Rani, H. Siebert",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8f1eaa0a8a6243ff05365f7b23f0f20d3baa8fe2",
+      "title": "Systemic amyloidosis from A (AA) to T (ATTR): a review",
+      "year": 2020,
+      "citationCount": 251,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/joim.13169",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/joim.13169?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/joim.13169, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "5003292",
+          "name": "Eli Muchtar"
+        },
+        {
+          "authorId": "4882576",
+          "name": "A. Dispenzieri"
+        },
+        {
+          "authorId": "22440729",
+          "name": "H. Magen"
+        },
+        {
+          "authorId": "145699060",
+          "name": "M. Grogan"
+        },
+        {
+          "authorId": "4549984",
+          "name": "M. Mauermann"
+        },
+        {
+          "authorId": "6013976",
+          "name": "E. McPhail"
+        },
+        {
+          "authorId": "3394314",
+          "name": "Paul J. Kurtin"
+        },
+        {
+          "authorId": "2590085",
+          "name": "N. Leung"
+        },
+        {
+          "authorId": "6081968",
+          "name": "F. Buadi"
+        },
+        {
+          "authorId": "3002721",
+          "name": "D. Dingli"
+        },
+        {
+          "authorId": "145238356",
+          "name": "S. Kumar"
+        },
+        {
+          "authorId": "1784463",
+          "name": "M. Gertz"
+        }
+      ],
+      "abstract": "Systemic amyloidosis is a rare protein misfolding and deposition disorder leading to progressive organ failure. There are over 15 types of systemic amyloidosis, each caused by a different precursor protein which promotes amyloid formation and tissue deposition. Amyloidosis can be acquired or hereditary and can affect various organs, including the heart, kidneys, liver, nerves, gastrointestinal tract, lungs, muscles, skin and soft tissues. Symptoms are usually insidious and nonspecific resulting in diagnostic delay. The field of amyloidosis has seen significant improvements over the past decade in diagnostic accuracy, prognosis prediction and management. The advent of mass spectrometry‐based shotgun proteomics has revolutionized amyloid typing and has led to the discovery of new amyloid types. Accurate typing of the precursor protein is of paramount importance as the type dictates a specific management approach. In this article, we review each type of systemic amyloidosis to provide the practitioner with practical tools to improve diagnosis and management of these rare disorders.",
+      "author_str": "Eli Muchtar, A. Dispenzieri, H. Magen",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b860a93f1ed3ede5acc0f8088f30c2e4f3cdd716",
+      "title": "Effects of metformin and statins on outcomes in men with castration-resistant metastatic prostate cancer: Secondary analysis of COU-AA-301 and COU-AA-302",
+      "year": 2022,
+      "citationCount": 26,
+      "openAccessPdf": {
+        "url": "http://www.ejcancer.com/article/S0959804922002052/pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9949683, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "49253238",
+          "name": "B. E. Wilson"
+        },
+        {
+          "authorId": "145548691",
+          "name": "A. Armstrong"
+        },
+        {
+          "authorId": "144486601",
+          "name": "J. D. de Bono"
+        },
+        {
+          "authorId": "4665969",
+          "name": "C. Sternberg"
+        },
+        {
+          "authorId": "34910142",
+          "name": "C. Ryan"
+        },
+        {
+          "authorId": "8403752",
+          "name": "H. Scher"
+        },
+        {
+          "authorId": "2110169999",
+          "name": "Matthew R. Smith"
+        },
+        {
+          "authorId": "4487343",
+          "name": "D. Rathkopf"
+        },
+        {
+          "authorId": "1896915",
+          "name": "C. Logothetis"
+        },
+        {
+          "authorId": "32414839",
+          "name": "K. Chi"
+        },
+        {
+          "authorId": "143724057",
+          "name": "Robert J. Jones"
+        },
+        {
+          "authorId": "2105790439",
+          "name": "F. Saad"
+        },
+        {
+          "authorId": "4619854",
+          "name": "P. De Porre"
+        },
+        {
+          "authorId": "4335821",
+          "name": "N. Tran"
+        },
+        {
+          "authorId": "2067772509",
+          "name": "Peter Hu"
+        },
+        {
+          "authorId": "3207400",
+          "name": "S. Gillessen"
+        },
+        {
+          "authorId": "145055398",
+          "name": "J. Carles"
+        },
+        {
+          "authorId": "145731619",
+          "name": "K. Fizazi"
+        },
+        {
+          "authorId": "3783547",
+          "name": "A. Joshua"
+        }
+      ],
+      "abstract": "Background: The associations of metformin and statins with overall survival (OS) and prostate specific antigen response rate (PSA-RR) in trials in metastatic castration-resistant prostate cancer remain unclear. Objective: To determine whether metformin or statins ± abiraterone acetate plus prednisone/prednisolone (AAP) influence OS and PSA-RR. Design, setting and participant: COU-AA-301 and COU-AA-302 patients were stratified by metformin and statin use. Cox proportional hazards models were used to estimate hazards ratio (HR) stratified by concomitant medications, and a random effects model was used to pool HR. We compared PSA-RR using Chi χ2 test. Results: In COU-AA-301-AAP, metformin was associated with improved PSA-RR (41.1% versus 28.6%) but not prolonged OS. In COU-AA-301-placebo-P, there was no association between metformin and prolonged OS or PSA-RR. In COU-AA-302-AAP, metformin was associated with prolonged OS (adjHR 0.69, 95% CI 0.48–0.98) and improved PSA-RR (72.7% versus 60.0%). In COU-AA-302-P, metformin was associated with prolonged OS (adjHR 0.66, 95% CI 0.47–0.93). In pooled analysis, OS was prolonged among those treated with metformin (pooled HR 0.77, 95% CI 0.62–0.95).In COU-AA-301-AAP, statins were associated with an improved OS (adjHR 0.76, 95% CI 0.62–0.93), while there was no difference in COU-AA-301-P. There was no association with statins and OS in either COU-AA-302 groups. When pooling HR, OS was prolonged among those treated with statins (pooled HR 0.78, 95% CI 0.68–0.88). Conclusion: Within the limitations of post-hoc sub-analyses, metformin and statins are associated with a prolonged OS and increased PSA-RR, particularly in combination with AAP.",
+      "author_str": "B. E. Wilson, A. Armstrong, J. D. de Bono",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b507c1cacc830ae129dbe498b5ac130e5794c450",
+      "title": "Amyloid fibril structure from the vascular variant of systemic AA amyloidosis",
+      "year": 2022,
+      "citationCount": 25,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41467-022-34636-4.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9700864, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2110879224",
+          "name": "Sambhasan Banerjee"
+        },
+        {
+          "authorId": "51173219",
+          "name": "Julian Baur"
+        },
+        {
+          "authorId": "3441101",
+          "name": "C. Daniel"
+        },
+        {
+          "authorId": "2122352132",
+          "name": "P. B. Pfeiffer"
+        },
+        {
+          "authorId": "3149235",
+          "name": "Manuel Hitzenberger"
+        },
+        {
+          "authorId": "2192215635",
+          "name": "Lukas Kuhn"
+        },
+        {
+          "authorId": "2372114",
+          "name": "S. Wiese"
+        },
+        {
+          "authorId": "3985788",
+          "name": "J. Bijzet"
+        },
+        {
+          "authorId": "3715130",
+          "name": "Christian Haupt"
+        },
+        {
+          "authorId": "2091875465",
+          "name": "K. Amann"
+        },
+        {
+          "authorId": "2664768",
+          "name": "M. Zacharias"
+        },
+        {
+          "authorId": "144734261",
+          "name": "B. Hazenberg"
+        },
+        {
+          "authorId": "5779458",
+          "name": "G. Westermark"
+        },
+        {
+          "authorId": "2115764556",
+          "name": "Matthias Schmidt"
+        },
+        {
+          "authorId": "6482871",
+          "name": "M. Fändrich"
+        }
+      ],
+      "abstract": "Systemic AA amyloidosis is a debilitating protein misfolding disease in humans and animals. In humans, it occurs in two variants that are called ‘vascular’ and ‘glomerular’, depending on the main amyloid deposition site in the kidneys. Using cryo electron microscopy, we here show the amyloid fibril structure underlying the vascular disease variant. Fibrils purified from the tissue of such patients are mainly left-hand twisted and contain two non-equal stacks of fibril proteins. They contrast in these properties to the fibrils from the glomerular disease variant which are right-hand twisted and consist of two structurally equal stacks of fibril proteins. Our data demonstrate that the different disease variants in systemic AA amyloidosis are associated with different fibril morphologies. This study reports the cryo-EM structures of AA amyloid fibrils from two patients with vascular AA amyloidosis. The findings imply that different disease variants in systemic amyloidosis are associated with different fibril structures.",
+      "author_str": "Sambhasan Banerjee, Julian Baur, C. Daniel",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f303b41ea8fdf405f2378658d532092ef5640098",
+      "title": "AA amyloid fibrils from diseased tissue are structurally different from in vitro formed SAA fibrils",
+      "year": 2021,
+      "citationCount": 72,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41467-021-21129-z.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7881110, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "49374399",
+          "name": "A. Bansal"
+        },
+        {
+          "authorId": "2115764556",
+          "name": "Matthias Schmidt"
+        },
+        {
+          "authorId": "20744628",
+          "name": "M. Rennegarbe"
+        },
+        {
+          "authorId": "3715130",
+          "name": "Christian Haupt"
+        },
+        {
+          "authorId": "15820864",
+          "name": "F. Liberta"
+        },
+        {
+          "authorId": "2239190108",
+          "name": "Sabrina Stecher"
+        },
+        {
+          "authorId": "1435605287",
+          "name": "Ioana Puşcalău-Gîrţu"
+        },
+        {
+          "authorId": "2049100941",
+          "name": "Alexander Biedermann"
+        },
+        {
+          "authorId": "6482871",
+          "name": "M. Fändrich"
+        }
+      ],
+      "abstract": "Systemic AA amyloidosis is a world-wide occurring protein misfolding disease of humans and animals. It arises from the formation of amyloid fibrils from serum amyloid A (SAA) protein. Using cryo electron microscopy we here show that amyloid fibrils which were purified from AA amyloidotic mice are structurally different from fibrils formed from recombinant SAA protein in vitro. Ex vivo amyloid fibrils consist of fibril proteins that contain more residues within their ordered parts and possess a higher β-sheet content than in vitro fibril proteins. They are also more resistant to proteolysis than their in vitro formed counterparts. These data suggest that pathogenic amyloid fibrils may originate from proteolytic selection, allowing specific fibril morphologies to proliferate and to cause damage to the surrounding tissue. Systemic AA amyloidosis is a protein misfolding disease caused by the formation of amyloid fibrils from serum amyloid A (SAA) protein. Here, the authors present the cryo-EM structures of AA amyloid fibrils isolated from mouse tissue and in vitro formed fibrils, which differ in their structures and they also show that the ex vivo fibrils are more resistant to proteolysis than the in vitro fibrils and propose that pathogenic amyloid fibrils might originate from proteolytic selection.",
+      "author_str": "A. Bansal, Matthias Schmidt, M. Rennegarbe",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "632dd1d0c9ba04721bfb72ef4270d38cd973be4c",
+      "title": "A Transformation Strategy for Highly Crystalline Covalent Triazine Frameworks: from Staggered AB to Eclipsed AA Stacking.",
+      "year": 2020,
+      "citationCount": 155,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/jacs.0c00365?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/jacs.0c00365, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1508289191",
+          "name": "Zhenzhen Yang"
+        },
+        {
+          "authorId": "50688724",
+          "name": "Hao Chen"
+        },
+        {
+          "authorId": "2117074162",
+          "name": "Song Wang"
+        },
+        {
+          "authorId": "50055121",
+          "name": "W. Guo"
+        },
+        {
+          "authorId": "2156017807",
+          "name": "Tao Wang"
+        },
+        {
+          "authorId": "2372284061",
+          "name": "Xian Suo"
+        },
+        {
+          "authorId": "145874415",
+          "name": "D. Jiang"
+        },
+        {
+          "authorId": "33530330",
+          "name": "Xiang Zhu"
+        },
+        {
+          "authorId": "11447271",
+          "name": "Ilja Popovs"
+        },
+        {
+          "authorId": "144268557",
+          "name": "S. Dai"
+        }
+      ],
+      "abstract": "Fabrication of crystalline covalent triazine frameworks (CTFs) under mild conditions without induction of carbonization is a long-term challenging subject. Herein, a tandem transfor-mation strategy was demonstrated for the preparation of highly crystalline CTFs with high surface areas under mild, metal- and solvent-free conditions. CTF-1 with a staggered AB stacking order (orange powder) obtained in the presence of a catalytic amount of superacid at 250 C was transformed to highly crystalline CTF-1 with an eclipsed AA stacking order (greenish powder) and surface area of 646 m2 g-1 through annealing at 350 C under nitrogen. The strategy can be ex-tended to the production of crystalline fluorinated CTFs with controllable fluorine content. This finding unlocks opportunities to design crystalline CTFs with tunable photoelectric properties.",
+      "author_str": "Zhenzhen Yang, Hao Chen, Song Wang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8d673efdcf458b5de34895cd266e764f4d8c49a8",
+      "title": "Assessment of GAFF2 and OPLS-AA General Force Fields in Combination with the Water Models TIP3P, SPCE, and OPC3 for the Solvation Free Energy of Druglike Organic Molecules.",
+      "year": 2019,
+      "citationCount": 211,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/acs.jctc.8b01039?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/acs.jctc.8b01039, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "66940016",
+          "name": "Dario Vassetti"
+        },
+        {
+          "authorId": "7597927",
+          "name": "M. Pagliai"
+        },
+        {
+          "authorId": "34036946",
+          "name": "P. Procacci"
+        }
+      ],
+      "abstract": "Molecular dynamics simulations have been performed to compute the solvation free energy and the octanol/water partition coefficients for a challenging set of selected organic molecules, characterized by the simultaneous presence of functional groups coarsely spanning a large portion of the chemical space in druglike compounds and, in many cases, by a complex conformational landscape (2-propoxyethanol, acetylsalicylic acid, cyclohexanamine, dialifor, ketoprofen, nitralin, profluralin, terbacil). OPLS-AA and GAFF2 parametrizations of the organic molecules and of 1-octanol have been done via the Web-based automatic parameter generators, LigParGen [ Dodda et al. Nucl. Acids Res. 2017 , 121 , 3864 ] and PrimaDORAC [ Procacci J. Chem. Inf. Model. 2017 , 57 , 1240 ], respectively. For the water solvent, three popular three-point site models, TIP3P, SPCE, and OPC3, were tested. Solvation free energies in water and 1-octanol are evaluated using a recently developed nonequilibrium alchemical technology [ Procacci et al. J. Chem. Theory Comput. 2014 , 10 , 2813 ]. Extensive and accurate simulations, including all possible combinations of organic molecule, solvent, and solvent model, are allowed to assess the accuracy with regard to solvation free energies of the latest release of two widespread force fields, OPLS and GAFF. The collected data are relevant in the evaluation of the predictive power of these classical force fields (and of the related support software for automated parametrization) with regard to binding free energies in a drug-receptor system for industrial applications.",
+      "author_str": "Dario Vassetti, M. Pagliai, P. Procacci",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f600df80a34e616b950b32996c93c4e35dd78002",
+      "title": "Renal AA amyloidosis: presentation, diagnosis, and current therapeutic options: a review.",
+      "year": 2022,
+      "citationCount": 31,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.kint.2022.10.028?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.kint.2022.10.028, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2066068433",
+          "name": "S. Karam"
+        },
+        {
+          "authorId": "2195600969",
+          "name": "Mohamad Haidous"
+        },
+        {
+          "authorId": "3716911",
+          "name": "Virginie Royal"
+        },
+        {
+          "authorId": "2590085",
+          "name": "N. Leung"
+        }
+      ],
+      "abstract": "Amyloid A amyloidosis is thought to be the second most common form of systemic amyloidosis behind amyloidosis secondary to monoclonal Ig. It is the result of deposition of insoluble fibrils in the extracellular space of tissues and organs derived from the precursor protein serum amyloid A, an acute phase reactant synthesized excessively in the setting of chronic inflammation. The kidney is the most frequent organ involved. Most patients present with proteinuria and kidney failure. The diagnosis is made through tissue biopsy with involvement of the glomeruli in most cases, but also often of the vessels and the tubulointerstitial compartment. The treatment usually targets the underlying etiology and consists increasingly of blocking the inflammatory cascade of cytokines with interleukin-1 inhibitors, interleukin-6 inhibitors, and tumor necrosis factor-α inhibitors to reduce serum amyloid A protein formation. This strategy has also shown efficacy in cases where an underlying etiology cannot be readily identified and has significantly improved the prognosis of this entity. In addition, there has been increased interest at developing effective therapies able to clear amyloid deposits from tissues, albeit with mitigated results so far.",
+      "author_str": "S. Karam, Mohamad Haidous, Virginie Royal",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "64bd6e0670b1528cf7bd8f2e7568f2a1552cd676",
+      "title": "AA Amyloidosis Associated With Cancers",
+      "year": 2022,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1093/ndt/gfac217?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/ndt/gfac217, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "152536208",
+          "name": "Joyita Bharati"
+        },
+        {
+          "authorId": "4772942",
+          "name": "O. Lahoud"
+        },
+        {
+          "authorId": "4541414",
+          "name": "K. Jhaveri"
+        },
+        {
+          "authorId": "69480066",
+          "name": "H. Izzedine"
+        }
+      ],
+      "abstract": "Systemic AA amyloidosis is associated with systemic inflammatory processes such as autoimmune disorders or chronic infections. In addition, AA amyloidosis can develop in a localized or systemic form in patients with malignant neoplastic disorders, and usually involves kidneys impacting renal function. Among solid tumors, renal cell carcinoma (RCC) appears to be responsible for one-quarter to half of all cancers associated with amyloidosis. Among other solid cancers, various clinical presentation and pathological types of lung cancer and basal cell carcinoma skin were reported with AA amyloidosis more often than isolated case reports on other cancers with AA amyloidosis. Symptoms from kidney involvement rather than from the tumor per se were the presenting manifestations in cases of RCC associated with AA amyloidosis. Among hematological malignancies, clonal B cell/plasma cell dyscrasias such as monoclonal gammopathy and lymphoma were noted to be associated with AA amyloidosis. In addition, AA amyloidosis was reported in a substantial number of cases treated with immune checkpoint inhibitors such as pembrolizumab and nivolumab. The mechanism of association of cancer and AA amyloidosis seems to be mediated by the immune response exacerbated from the tumor and its microenvironment or immune therapy. The mainstay of treatment consists of therapy directed against the underlying malignancy or careful withdrawal of the offending agent. This review will discuss this rare but highly morbid clinical condition.",
+      "author_str": "Joyita Bharati, O. Lahoud, K. Jhaveri",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "566ae1021d4165ffaacc9d8a5d188eff632da777",
+      "title": "Effect of natural ageing or pre-ageing on the evolution of precipitate structure and strength during age hardening of Al–Mg–Si alloy AA 6016",
+      "year": 2019,
+      "citationCount": 150,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.MSEA.2019.05.073?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.MSEA.2019.05.073, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "94124664",
+          "name": "O. Engler"
+        },
+        {
+          "authorId": "4739596",
+          "name": "C. Marioara"
+        },
+        {
+          "authorId": "13265555",
+          "name": "Y. Aruga"
+        },
+        {
+          "authorId": "49098799",
+          "name": "Masaya Kozuka"
+        },
+        {
+          "authorId": "98918150",
+          "name": "O. R. Myhr"
+        }
+      ],
+      "abstract": "Abstract In this study we demonstrate the complementarity of transmission electron microscopy (TEM) and atom probe tomography (APT) in studying the early stages of phase decomposition in the age-hardening Al–Mg–Si alloy AA 6016. Samples are subjected to natural ageing at ambient temperature or artificial pre-ageing at elevated temperature in order to produce different types of atomic clusters and early stages of precipitation before age hardening commences. APT is utilized to detect clusters and identify their number density, size and compositions, whereas TEM is applied to analyse and quantify number density, sizes and types of the hardening precipitates during artificial ageing. Finally, the particle statistics derived by APT and/or TEM were utilized to predict the mechanical properties of the various samples and conditions analysed.",
+      "author_str": "O. Engler, C. Marioara, Y. Aruga",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "cec2748b763351d3adcf00a80b8c37e15667826a",
+      "title": "Influence of the Fly Ash Material Inoculants on the Tensile and Impact Characteristics of the Aluminum AA 5083/7.5SiC Composites",
+      "year": 2021,
+      "citationCount": 56,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1944/14/9/2452/pdf?version=1620639542",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8126012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2059781508",
+          "name": "S. Nagaraja"
+        },
+        {
+          "authorId": "2093489537",
+          "name": "Kempaiah Ujjaini Nagegowda"
+        },
+        {
+          "authorId": "2093489857",
+          "name": "Anand Kumar V"
+        },
+        {
+          "authorId": "39256288",
+          "name": "Sagr Alamri"
+        },
+        {
+          "authorId": "32998487",
+          "name": "A. Afzal"
+        },
+        {
+          "authorId": "50066915",
+          "name": "D. Thakur"
+        },
+        {
+          "authorId": "91477775",
+          "name": "A. R. Kaladgi"
+        },
+        {
+          "authorId": "144560852",
+          "name": "S. Panchal"
+        },
+        {
+          "authorId": "1792159130",
+          "name": "A. Saleel C."
+        }
+      ],
+      "abstract": "The choice of suitable inoculants in the grain refinement process and subsequent enhancement of the characteristics of the composites developed is an important materials research topic, having wide scope. In this regard, the present work is aimed at finding the appropriate composition and size of fly ash as inoculants for grain refinement of the aluminum AA 5083 composites. Fly ash particles, which are by products of the combustion process in thermal power plants, contributing to the large-scale pollution and landfills can be effectively utilized as inoculants and interatomic lubricants in the composite matrix–reinforcement subspaces synthesized in the inert atmosphere using ultrasonic assisted stir casting setup. Thus, the work involves the study of the influence of percentage and size of the fly ash dispersions on the tensile and impact strength characteristics of the aluminum AA 5083/7.5SiC composites. The C type of fly ash with the particle size in the series of 40–75 µm, 76–100 µm, and 101–125 µm and weight % in the series of 0.5, 1, 1.5, 2, and 2.5 are selected for the work. The influence of fly ash as distinct material inoculants for the grain refinement has worked out well with the increase in the ultimate tensile strength, yield strength, and impact strength of the composites, with the fly ash as material inoculants up to 2 wt. % beyond which the tensile and impact characteristics decrease due to the micro coring and segregation. This is evident from the microstructural observations for the composite specimens. Moreover, the role of fly ash as material inoculants is distinctly identified with the X-Ray Diffraction (XRD) for the phase and grain growth epitaxy and the Energy Dispersive Spectroscopy (EDS) for analyzing the characteristic X-Rays of the fly ash particles as inoculant agents in the energy spectrum.",
+      "author_str": "S. Nagaraja, Kempaiah Ujjaini Nagegowda, Anand Kumar V",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b915d1b3e12aa3296080bc460abe8021e496c3f6",
+      "title": "NIA‐AA Alzheimer's Disease Framework: Clinical Characterization of Stages",
+      "year": 2021,
+      "citationCount": 57,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1002/ana.26071",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8131266, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2412685774",
+          "name": "R. Petersen"
+        },
+        {
+          "authorId": "4055427",
+          "name": "H. Wiste"
+        },
+        {
+          "authorId": "2443264",
+          "name": "S. Weigand"
+        },
+        {
+          "authorId": "145498705",
+          "name": "J. Fields"
+        },
+        {
+          "authorId": "3671316",
+          "name": "Y. Geda"
+        },
+        {
+          "authorId": "1382518078",
+          "name": "J. Graff‐Radford"
+        },
+        {
+          "authorId": "2254721488",
+          "name": "D. Knopman"
+        },
+        {
+          "authorId": "4003499",
+          "name": "W. Kremers"
+        },
+        {
+          "authorId": "3201128",
+          "name": "V. Lowe"
+        },
+        {
+          "authorId": "6493195",
+          "name": "M. Machulda"
+        },
+        {
+          "authorId": "2751523",
+          "name": "M. Mielke"
+        },
+        {
+          "authorId": "3213850",
+          "name": "N. Stricker"
+        },
+        {
+          "authorId": "3149653",
+          "name": "T. Therneau"
+        },
+        {
+          "authorId": "2728840",
+          "name": "P. Vemuri"
+        },
+        {
+          "authorId": "2416914779",
+          "name": "C. Jack"
+        }
+      ],
+      "abstract": "To operationalize the National Institute on Aging – Alzheimer's Association (NIA‐AA) Research Framework for Alzheimer's Disease 6‐stage continuum of clinical progression for persons with abnormal amyloid.",
+      "author_str": "R. Petersen, H. Wiste, S. Weigand",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "bb3bdb2732fc930ade9cf0302f521aa15f2850d4",
+      "title": "DHA/AA alleviates LPS-induced Kupffer cells pyroptosis via GPR120 interaction with NLRP3 to inhibit inflammasome complexes assembly",
+      "year": 2021,
+      "citationCount": 44,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41419-020-03347-3.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7803970, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2057841515",
+          "name": "Guoqiang Fan"
+        },
+        {
+          "authorId": "2110499600",
+          "name": "Yanfei Li"
+        },
+        {
+          "authorId": "2138819160",
+          "name": "Jinglong Chen"
+        },
+        {
+          "authorId": "5592939",
+          "name": "Yibo Zong"
+        },
+        {
+          "authorId": "48520715",
+          "name": "Xiaojing Yang"
+        }
+      ],
+      "abstract": "Pyroptosis is a novel type of programmed cell death associated with the pathogenesis of many inflammatory diseases. Docosahexaenoic acid (DHA) and Arachidonic acid (AA) is widely involved in inflammatory pathological processes. However, the effect and mechanism of DHA and AA on pyroptosis in Kupffer cells are poorly understood. The present study demonstrated that DHA and AA ameliorated lipopolysaccharide (LPS)-induced Kupffer cells pyroptosis by reversing the increased expression of NLRP3 inflammasome complex, GSDMD, IL-1β, IL-18, and PI-stained positive rate. Next, the study revealed that GPR120 silencing eliminated the anti-pyroptosis of DHA and AA in LPS-induced Kupffer cells, suggesting that DHA and AA exerted their effect through GPR120 signaling. Importantly, GPR120 endocytose and binds to NLRP3 under LPS stimulation. Furthermore, co-immunoprecipitation showed that DHA and AA promoted the interaction between GPR120 and NLRP3 in LPS-exposed Kupffer cells, thus inhibiting the self-assembly of NLRP3 inflammasome complex. Finally, the study verified that DHA and AA alleviated hepatic injury through inhibiting Kupffer cells pyroptosis in vivo. The findings indicated that DHA and AA alleviated LPS-induced Kupffer cells pyroptosis via GPR120 interaction with NLRP3, it might become a potential therapeutic approach hepatic injury. DHA/AA alleviated LPS-induced Kupffer cells pyroptosis via GPR120 interaction with NLRP3 to inhibit NLRP3 inflammasome assembly.",
+      "author_str": "Guoqiang Fan, Yanfei Li, Jinglong Chen",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d6cb1108d54adb9f165aa4f3068bce3e82a56e94",
+      "title": "circFBXW7 Inhibits Malignant Progression by Sponging miR-197-3p and Encoding a 185-aa Protein in Triple-Negative Breast Cancer",
+      "year": 2019,
+      "citationCount": 217,
+      "openAccessPdf": {
+        "url": "http://www.cell.com/article/S2162253119302215/pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6796723, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2104155451",
+          "name": "Feng Ye"
+        },
+        {
+          "authorId": "14070707",
+          "name": "Guanfeng Gao"
+        },
+        {
+          "authorId": "13517736",
+          "name": "Yutian Zou"
+        },
+        {
+          "authorId": "35459629",
+          "name": "Shaoquan Zheng"
+        },
+        {
+          "authorId": "2108877240",
+          "name": "Lijuan Zhang"
+        },
+        {
+          "authorId": "151257984",
+          "name": "Xueqi Ou"
+        },
+        {
+          "authorId": "145104390",
+          "name": "Xiaoming Xie"
+        },
+        {
+          "authorId": "5989429",
+          "name": "Hailin Tang"
+        }
+      ],
+      "abstract": "Accumulating evidence indicates that circular RNAs (circRNAs) are vital regulators of various biological functions involved in the progression of multiple cancers. Circular F-box and WD repeat domain containing 7 (circFBXW7) (hsa_circ_0001451) has been reported to act as a tumor suppressor by encoding a novel protein in glioma; however, its functions and mechanisms in triple-negative breast cancer (TNBC) remain elusive. In the current study, we validated by qRT-PCR that circFBXW7 was downregulated in TNBC cell lines and found that low expression of circFBXW7 was associated with poorer clinical outcomes. circFBXW7 expression was negatively correlated with tumor size and lymph node metastasis, and it was an independent prognostic factor for TNBC patients. We performed cell proliferation, colony formation, transwell, wound-healing, and mouse xenograft assays to confirm the functions of circFBXW7. Overexpression of circFBXW7 obviously inhibited cell proliferation, migration, and tumor growth in both in vitro and in vivo assays. Luciferase reporter assays and RNA immunoprecipitation assays revealed that circFBXW7 serves as a sponge of miR-197-3p and suppresses TNBC growth and metastasis by upregulating FBXW7 expression. In addition, the FBXW7-185aa protein encoded by circFBXW7 inhibited the proliferation and migration abilities of TNBC cells by increasing the abundance of FBXW7 and inducing c-Myc degradation. In summary, our research demonstrated that circFBXW7 sponges miR-197-3p and encodes the FBXW7-185aa protein to suppress TNBC progression through upregulating FBXW7 expression. Thus, circFBXW7 may act as a therapeutic target and prognostic biomarker for TNBC.",
+      "author_str": "Feng Ye, Guanfeng Gao, Yutian Zou",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "126ecb997602276d953df757a24e2ad1a1b31d8f",
+      "title": "Layer-by-Layer Growth of AA-Stacking MoS2 for Tunable Broadband Phototransistors.",
+      "year": 2021,
+      "citationCount": 41,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/acsami.1c19906?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/acsami.1c19906, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2115829399",
+          "name": "Xia Luo"
+        },
+        {
+          "authorId": "2107093105",
+          "name": "Z. Peng"
+        },
+        {
+          "authorId": "2108724197",
+          "name": "Zegao Wang"
+        },
+        {
+          "authorId": "7017354",
+          "name": "M. Dong"
+        }
+      ],
+      "abstract": "The stacking configuration has been considered as an important additional degree of freedom to tune the physical property of layered materials, such as superconductivity and interlayer excitons. However, the facile growth of highly uniform stacking configuration is still a challenge. Herein, the AA-stacking MoS2 domains with a ratio up to 99.5% has been grown by using the modified chemical vapor deposition through introducing NaCl molecules in the confined space. By tuning the growth time, MoS2 domains would transit from an AA-stacking bilayer to an AAAAA-stacking five-layer. The epitaxial growth mechanism has been insightfully studied, revealing that the critical nucleation size of the AA-stacking bilayer is 5.0 ± 3.0 μm. Through investigation of the photoluminescence, the photoemission, especially the indirect photoexcitation, is dependent on both the stacking fashion and layer number. Furthermore, by studying the gate-tuned MoS2 phototransistors, we found a significant dependence on the stacking configuration of MoS2 of the photoexcitation and a different gate tunable photoresponse. The AAA-stacking trilayer MoS2 phototransistor delivers a photoresponse of 978.14 A W-1 at 550 nm. By correction of the external quantum efficiency with external field and illumination power density, it has been found that the photoresponse tunability is dependent on the layer number due to the strong photogating effect. This strategy provides a general avenue for the epitaxial growth of van der Waals film which will further facilitate the applications in a tunable photodetector.",
+      "author_str": "Xia Luo, Z. Peng, Zegao Wang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "462a4441c14faaa5edfb040992e34b80222a8dd0",
+      "title": "Aggregatibacter actinomycetemcomitans (Aa) Under the Radar: Myths and Misunderstandings of Aa and Its Role in Aggressive Periodontitis",
+      "year": 2019,
+      "citationCount": 118,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fimmu.2019.00728/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6476972, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3041372",
+          "name": "D. Fine"
+        },
+        {
+          "authorId": "50841791",
+          "name": "Amey Patil"
+        },
+        {
+          "authorId": "39109993",
+          "name": "S. Velusamy"
+        }
+      ],
+      "abstract": "Aggregatibacter actinomycetemcomitans (Aa) is a low-abundance Gram-negative oral pathobiont that is highly associated with a silent but aggressive orphan disease that results in periodontitis and tooth loss in adolescents of African heritage. For the most part Aa conducts its business by utilizing strategies allowing it to conceal itself below the radar of the host mucosal immune defense system. A great deal of misinformation has been conveyed with respect to Aa biology in health and disease. The purpose of this review is to present misconceptions about Aa and the strategies that it uses to colonize, survive, and evade the host. In the process Aa manages to undermine host mucosal defenses and contribute to disease initiation. This review will present clinical observational, molecular, and interventional studies that illustrate genetic, phenotypic, and biogeographical tactics that have been recently clarified and demonstrate how Aa survives and suppresses host mucosal defenses to take part in disease pathogenesis. At one point in time Aa was considered to be the causative agent of Localized Aggressive Periodontitis. Currently, it is most accurate to look at Aa as a community activist and necessary partner of a pathogenic consortium that suppresses the initial host response so as to encourage overgrowth of its partners. The data for Aa's activist role stems from molecular genetic studies complemented by experimental animal investigations that demonstrate how Aa establishes a habitat (housing), nutritional sustenance in that habitat (food), and biogeographical mobilization and/or relocation from its initial habitat (transportation). In this manner Aa can transfer to a protected but vulnerable domain (pocket or sulcus) where its community activism is most useful. Aa's “strategy” includes obtaining housing, food, and transportation at no cost to its partners challenging the economic theory that “there ain't no such thing as a free lunch.” This “strategy” illustrates how co-evolution can promote Aa's survival, on one hand, and overgrowth of community members, on the other, which can result in local host dysbiosis and susceptibility to infection.",
+      "author_str": "D. Fine, Amey Patil, S. Velusamy",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "345b7badf8f50bfd82e5e4f84bf1ac78baca7d3a",
+      "title": "Causes of AA amyloidosis: a systematic review",
+      "year": 2019,
+      "citationCount": 102,
+      "openAccessPdf": {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/13506129.2019.1693359?needAccess=true",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/13506129.2019.1693359?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/13506129.2019.1693359, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "81740634",
+          "name": "A. Brunger"
+        },
+        {
+          "authorId": "144707682",
+          "name": "H. Nienhuis"
+        },
+        {
+          "authorId": "3985788",
+          "name": "J. Bijzet"
+        },
+        {
+          "authorId": "144734261",
+          "name": "B. Hazenberg"
+        }
+      ],
+      "abstract": "Abstract From a clinical perspective, there is a need for a reliable and comprehensive list of diseases causing AA amyloidosis. This list could guide clinicians in the evaluation of patients with AA amyloidosis in whom an obvious cause is lacking. In this systematic review, a PubMed, Embase and Web of Science literature search were performed on causes of AA amyloidosis published in the last four decades. Initially, 4066 unique titles were identified, but only 795 full-text articles and letters were finally selected for analysis. Titles were excluded because of non-AA type of amyloidosis, language, no full-text publication or irrelevance. Hundred and fifty diseases were initially reported to be associated with the development of AA amyloidosis. The presence of AA amyloid was proven in 208 articles (26% of all) of which 140 (67%) showed a strong association with an underlying disease process. Disease associations were categorized and 48 were listed as strong, 19 as weak, 23 as unclear, and 60 as unlikely. Most newly described diseases are not really unexpected because they often cause longstanding inflammation. Based on the spectrum of identified causes, a pragmatic diagnostic approach is proposed for the AA amyloidosis patient in whom an obvious underlying disease is lacking.",
+      "author_str": "A. Brunger, H. Nienhuis, J. Bijzet",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "27a2cb34ea79c4ebc8191c07a69398240dade2d3",
+      "title": "Cryo-EM fibril structures from systemic AA amyloidosis reveal the species complementarity of pathological amyloids",
+      "year": 2019,
+      "citationCount": 119,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41467-019-09033-z.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6405766, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "15820864",
+          "name": "F. Liberta"
+        },
+        {
+          "authorId": "14938070",
+          "name": "S. Loerch"
+        },
+        {
+          "authorId": "20744628",
+          "name": "M. Rennegarbe"
+        },
+        {
+          "authorId": "3702319",
+          "name": "A. Schierhorn"
+        },
+        {
+          "authorId": "3237351",
+          "name": "P. Westermark"
+        },
+        {
+          "authorId": "5779458",
+          "name": "G. Westermark"
+        },
+        {
+          "authorId": "144734261",
+          "name": "B. Hazenberg"
+        },
+        {
+          "authorId": "3774122",
+          "name": "N. Grigorieff"
+        },
+        {
+          "authorId": "6482871",
+          "name": "M. Fändrich"
+        },
+        {
+          "authorId": "2115764556",
+          "name": "Matthias Schmidt"
+        }
+      ],
+      "abstract": "Systemic AA amyloidosis is a worldwide occurring protein misfolding disease of humans and animals. It arises from the formation of amyloid fibrils from the acute phase protein serum amyloid A. Here, we report the purification and electron cryo-microscopy analysis of amyloid fibrils from a mouse and a human patient with systemic AA amyloidosis. The obtained resolutions are 3.0 Å and 2.7 Å for the murine and human fibril, respectively. The two fibrils differ in fundamental properties, such as presence of right-hand or left-hand twisted cross-β sheets and overall fold of the fibril proteins. Yet, both proteins adopt highly similar β-arch conformations within the N-terminal ~21 residues. Our data demonstrate the importance of the fibril protein N-terminus for the stability of the analyzed amyloid fibril morphologies and suggest strategies of combating this disease by interfering with specific fibril polymorphs. Systemic AA amyloidosis is caused by misfolding of the acute phase protein serum amyloid A1. Here the authors present the cryo-EM structures of murine and human AA amyloid fibrils that were isolated from tissue samples and describe how the fibrils differ in their fundamental structural properties.",
+      "author_str": "F. Liberta, S. Loerch, M. Rennegarbe",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "bc7eee5393263fc756077a52d0fd7fe0ac45cf7c",
+      "title": "Hadronic rescattering in pA and AA collisions",
+      "year": 2021,
+      "citationCount": 35,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1140/epja/s10050-021-00543-3.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2103.09665, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "89376627",
+          "name": "C. Bierlich"
+        },
+        {
+          "authorId": "3096879",
+          "name": "T. Sjöstrand"
+        },
+        {
+          "authorId": "104291585",
+          "name": "M. Utheim"
+        }
+      ],
+      "abstract": "In a recent article we presented a model for hadronic rescattering, and some results were shown for pp\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\mathrm {p}\\mathrm {p}$$\\end{document} collisions at LHC energies. In order to extend the studies to pA\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\mathrm {p}\\mathrm {A}$$\\end{document} and AA\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\mathrm {A}\\mathrm {A}$$\\end{document} collisions, the Angantyr model for heavy-ion collisions is taken as the starting point. Both these models are implemented within the general-purpose Monte Carlo event generator Pythia, which makes the matching reasonably straightforward, and allows for detailed studies of the full space–time evolution. The rescattering rate is significantly higher than in pp\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\mathrm {p}\\mathrm {p}$$\\end{document}, especially for central AA\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\mathrm {A}\\mathrm {A}$$\\end{document} collisions, where the typical primary hadron rescatters several times. We study the impact of rescattering on a number of distributions, such as p⊥\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$p_{\\perp }$$\\end{document} and η\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\eta $$\\end{document} spectra, and the space–time evolution of the whole collision process. Notably rescattering is shown to give a significant contribution to elliptic flow in XeXe\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\mathrm {XeXe}$$\\end{document} and PbPb\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\mathrm {PbPb}$$\\end{document}, and to give a nontrivial impact on charm production.",
+      "author_str": "C. Bierlich, T. Sjöstrand, M. Utheim",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "0f5e884e61d4e52b0552497cb2e28bcb9fb63440",
+      "title": "Revisiting the evidence for genotoxicity of acrylamide (AA), key to risk assessment of dietary AA exposure",
+      "year": 2020,
+      "citationCount": 64,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s00204-020-02794-3.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7415744, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "145966142",
+          "name": "G. Eisenbrand"
+        }
+      ],
+      "abstract": "The weight of evidence pro/contra classifying the process-related food contaminant (PRC) acrylamide (AA) as a genotoxic carcinogen is reviewed. Current dietary AA exposure estimates reflect margins of exposure (MOEs) < 500. Several arguments support the view that AA may not act as a genotoxic carcinogen, especially not at consumer-relevant exposure levels: Biotransformation of AA into genotoxic glycidamide (GA) in primary rat hepatocytes is markedly slower than detoxifying coupling to glutathione (GS). Repeated feeding of rats with AA containing foods, bringing about uptake of 100 µg/kg/day of AA, resulted in dose x time-related buildup of AA-hemoglobin (Hb) adducts, whereas GA-Hb adducts remained within the background. Since hepatic oxidative biotransformation of AA into GA was proven by simultaneous urinary mercapturic acid monitoring it can be concluded that at this nutritional intake level any GA formed in the liver from AA is quantitatively coupled to GS to be excreted as mercapturic acid in urine. In an oral single dose–response study in rats, AA induced DNA N 7 -GA-Gua adducts dose-dependently in the high dose range (> 100 µg/kg b w). At variance, in the dose range below 100 µg/kg b.w. down to levels of average consumers exposure, DNA N 7 -Gua lesions were found only sporadically, without dose dependence, and at levels close to the lower bound of similar human background DNA N 7 -Gua lesions. No DNA damage was detected by the comet assay within this low dose range. GA is a very weak mutagen, known to predominantly induce DNA N 7 -GA-Gua adducts, especially in the lower dose range. There is consensus that DNA N 7 -GA-Gua adducts exhibit rather low mutagenic potency. The low mutagenic potential of GA has further been evidenced by comparison to preactivated forms of other process-related contaminants, such as N -Nitroso compounds or polycyclic aromatic hydrocarbons, potent food borne mutagens/carcinogens. Toxicogenomic studies provide no evidence supporting a genotoxic mode of action (MOA), rather indicate effects on calcium signalling and cytoskeletal functions in rodent target organs. Rodent carcinogenicity studies show induction of strain- and species-specific neoplasms, with MOAs not considered likely predictive for human cancer risk. In summary, the overall evidence clearly argues for a nongenotoxic/nonmutagenic MOA underlying the neoplastic effects of AA in rodents. In consequence, a tolerable intake level (TDI) may be defined, guided by mechanistic elucidation of key adverse effects and supported by biomarker-based dosimetry in experimental systems and humans.",
+      "author_str": "G. Eisenbrand",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5330d16d4a6fe58d158b53a6434e170852147a27",
+      "title": "Inflammation with the participation of arachidonic (AA) and linoleic acid (LA) derivatives (HETEs and HODEs) is necessary in the course of a normal reproductive cycle and pregnancy.",
+      "year": 2020,
+      "citationCount": 58,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.jri.2020.103177",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jri.2020.103177?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jri.2020.103177, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "83620840",
+          "name": "Justyna Kikut"
+        },
+        {
+          "authorId": "9649926",
+          "name": "Natalia Komorniak"
+        },
+        {
+          "authorId": "50457732",
+          "name": "Maciej Ziętek"
+        },
+        {
+          "authorId": "66752582",
+          "name": "J. Palma"
+        },
+        {
+          "authorId": "5801647",
+          "name": "M. Szczuko"
+        }
+      ],
+      "abstract": "Data on arachidonic (AA) and linoleic (LA) acid derivatives and their role in the reproductive cycle are limited. In order to systematize these reports, 54 scientific investigations were analyzed, which revealed the important role of AA and LA in the planning and course of pregnancy. Ovulation, menstruation, pregnancy, and childbirth are strongly related to the occurrence of physiological inflammatory reactions. Ovulation and menstruation are cyclic tissue remodeling processes that cause changes in the synthesis of inflammation mediators, such as prostaglandins and leukotrienes. Thus, the cyclooxygenase (COX) and lipoxygenase-5 (5-LOX) pathway for AA transformation is activated. Only the absence of neutrophils during this process differentiates an embryo implantation from a standard inflammatory response. It has been found that in COX-2 deficiency conditions, incorrect embryo implantation and decidual reaction occur; therefore, the mechanism associated with the activation of the nuclear factor (NF)-κB pathway seems to play an important role in the course of embryo implantation. In addition, 12/15-LOX may be key modulators of uterine activity during the implantation process. According to the current state of knowledge, AA derivatives synthesized throughout the cytochrome P450 (CYP) and LOX pathways play a special role in the late pregnancy period. Decreased 5-HETE levels have been related to slowing down the progression of labor, while 11-HETE and 15-HETrE to its acceleration. It has been also proven that renal 20-HETE contents undergo significant changes in the late pregnancy period, which are caused by an increase in their adrenal medulla and vascular synthesis, leading to decrease of blood pressure and an increase of sodium excretion, finally conditioning a normal course of labor.",
+      "author_str": "Justyna Kikut, Natalia Komorniak, Maciej Ziętek",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "eb5ef7d73f7f77655eea8e492394dc24712b940e",
+      "title": "A Multi-ringed, Modestly Inclined Protoplanetary Disk around AA Tau",
+      "year": 2017,
+      "citationCount": 128,
+      "openAccessPdf": {
+        "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aa6c63/pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1704.02006, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "40521627",
+          "name": "R. Loomis"
+        },
+        {
+          "authorId": "40360420",
+          "name": "K. Öberg"
+        },
+        {
+          "authorId": "97890922",
+          "name": "S. Andrews"
+        },
+        {
+          "authorId": "35865906",
+          "name": "M. MacGregor"
+        }
+      ],
+      "abstract": "AA Tau is the archetype for a class of stars with a peculiar periodic photometric variability thought to be related to a warped inner disk structure with a nearly edge-on viewing geometry. We present high resolution (∼0.″2) ALMA observations of the 0.87 and 1.3 mm dust continuum emission from the disk around AA Tau. These data reveal an evenly spaced three-ringed emission structure, with distinct peaks at 0.″34, 0.″66, and 0.″99, all viewed at a modest inclination of 59.°1 ± 0.°3 (decidedly not edge-on). In addition to this ringed substructure, we find non-axisymmetric features, including a “bridge” of emission that connects opposite sides of the innermost ring. We speculate on the nature of this “bridge” in light of accompanying observations of HCO+ and 13CO (J = 3–2) line emission. The HCO+ emission is bright interior to the innermost dust ring, with a projected velocity field that appears rotated with respect to the resolved disk geometry, indicating the presence of a warp or inward radial flow. We suggest that the continuum bridge and HCO+ line kinematics could originate from gap-crossing accretion streams, which may be responsible for the long-duration dimming of optical light from AA Tau.",
+      "author_str": "R. Loomis, K. Öberg, S. Andrews",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "125f14ee3105196baf270b6cf3802c899f5baa69",
+      "title": "Secondary, AA, Amyloidosis.",
+      "year": 2018,
+      "citationCount": 127,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.rdc.2018.06.004?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.rdc.2018.06.004, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "47270117",
+          "name": "R. Papa"
+        },
+        {
+          "authorId": "34726089",
+          "name": "H. Lachmann"
+        }
+      ],
+      "abstract": "Secondary, AA, amyloidosis is a rare systemic complication that can develop in any long-term inflammatory disorder, and is characterized by the extracellular deposition of fibrils derived from serum amyloid A (SAA) protein. SAA is an acute-phase reactant synthetized largely by hepatocytes under the transcriptional regulation of proinflammatory cytokines. The kidney is the major involved organ with proteinuria as first clinical manifestation; renal biopsy is the commonest diagnostic investigation. Targeted anti-inflammatory treatment promotes normalization of circulating SAA levels preventing amyloid deposition and renal damage. Novel therapies aimed at promoting clearance of existing amyloid deposits soon may be an effective treatment approach.",
+      "author_str": "R. Papa, H. Lachmann",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "dff742f714bc33118a9c791233facbe20968462b",
+      "title": "A novel automated image analysis system using deep convolutional neural networks can assist to differentiate MDS and AA",
+      "year": 2019,
+      "citationCount": 80,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41598-019-49942-z.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6746738, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "16255483",
+          "name": "Konobu Kimura"
+        },
+        {
+          "authorId": "7772769",
+          "name": "Y. Tabe"
+        },
+        {
+          "authorId": "1562514581",
+          "name": "Tomohiko Ai"
+        },
+        {
+          "authorId": "48325375",
+          "name": "Ikki Takehara"
+        },
+        {
+          "authorId": "152888196",
+          "name": "H. Fukuda"
+        },
+        {
+          "authorId": "12334013",
+          "name": "Hiromizu Takahashi"
+        },
+        {
+          "authorId": "32695294",
+          "name": "T. Naito"
+        },
+        {
+          "authorId": "32896823",
+          "name": "N. Komatsu"
+        },
+        {
+          "authorId": "13943845",
+          "name": "Kinya Uchihashi"
+        },
+        {
+          "authorId": "4577893",
+          "name": "A. Ohsaka"
+        }
+      ],
+      "abstract": "Detection of dysmorphic cells in peripheral blood (PB) smears is essential in diagnostic screening of hematological diseases. Myelodysplastic syndromes (MDS) are hematopoietic neoplasms characterized by dysplastic and ineffective hematopoiesis, which diagnosis is mainly based on morphological findings of PB and bone marrow. We developed an automated diagnostic support system of MDS by combining an automated blood cell image-recognition system using a deep learning system (DLS) powered by convolutional neural networks (CNNs) with a decision-making system using extreme gradient boosting (XGBoost). The DLS of blood cell image-recognition has been trained using datasets consisting of 695,030 blood cell images taken from 3,261 PB smears including hematopoietic malignancies. The DLS simultaneously classified 17 blood cell types and 97 morphological features of such cells with >93.5% sensitivity and >96.0% specificity. The automated MDS diagnostic system successfully differentiated MDS from aplastic anemia (AA) with high accuracy; 96.2% of sensitivity and 100% of specificity (AUC 0.990). This is the first CNN-based automated initial diagnostic system for MDS using PB smears, which is applicable to develop new automated diagnostic systems for various hematological disorders.",
+      "author_str": "Konobu Kimura, Y. Tabe, Tomohiko Ai",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b55d9871220d8398d76118af4e751d40e06b73b4",
+      "title": "Oxidative potential of ambient water-soluble PM 2.5 in the southeastern United States: contrasts in sources and health associations between ascorbic acid (AA) and dithiothreitol (DTT) assays",
+      "year": 2016,
+      "citationCount": 293,
+      "openAccessPdf": {
+        "url": "https://www.atmos-chem-phys.net/16/3865/2016/acp-16-3865-2016.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/ACP-16-3865-2016?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/ACP-16-3865-2016, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "145602313",
+          "name": "T. Fang"
+        },
+        {
+          "authorId": "48836162",
+          "name": "V. Verma"
+        },
+        {
+          "authorId": "27566319",
+          "name": "J. Bates"
+        },
+        {
+          "authorId": "48306846",
+          "name": "J. Abrams"
+        },
+        {
+          "authorId": "32195797",
+          "name": "M. Klein"
+        },
+        {
+          "authorId": "5168887",
+          "name": "M. Strickland"
+        },
+        {
+          "authorId": "5763853",
+          "name": "S. Sarnat"
+        },
+        {
+          "authorId": "144800746",
+          "name": "Howard H. Chang"
+        },
+        {
+          "authorId": "40540427",
+          "name": "J. Mulholland"
+        },
+        {
+          "authorId": "6136965",
+          "name": "P. Tolbert"
+        },
+        {
+          "authorId": "145408389",
+          "name": "A. Russell"
+        },
+        {
+          "authorId": "2230254106",
+          "name": "R. Weber"
+        }
+      ],
+      "abstract": "Abstract. The ability of certain components of particulate matter to induce oxidative stress through the generation of reactive oxygen species (ROS) in vivo may be one mechanism accounting for observed linkages between ambient aerosols and adverse health outcomes. A variety of assays have been used to measure this so-called aerosol oxidative potential. We developed a semi-automated system to quantify oxidative potential of filter aqueous extracts utilizing the dithiothreitol (DTT) assay and report here the development of a similar semi-automated system for the ascorbic acid (AA) assay. Approximately 500 PM2.5 filter samples collected in contrasting locations in the southeastern US were analyzed for a host of aerosol species, along with AA and DTT activities. We present a detailed contrast in findings from these two assays. Water-soluble AA activity was higher in summer and fall than in winter, with highest levels near heavily trafficked highways, whereas DTT activity was higher in winter compared to summer and fall and more spatially homogeneous. AA activity was nearly exclusively correlated with water-soluble Cu (r  =  0.70–0.94 at most sites), whereas DTT activity was correlated with organic and metal species. Source apportionment models, positive matrix factorization (PMF) and a chemical mass balance method with ensemble-averaged source impact profiles (CMB-E), suggest a strong contribution from traffic emissions and secondary processes (e.g., organic aerosol oxidation or metals mobilization by secondary acids) to both AA and DTT activities in urban Atlanta. In contrast, biomass burning was a large source for DTT activity, but insignificant for AA. AA activity was not correlated with PM2.5 mass, while DTT activity co-varied strongly with mass (r  =  0.49–0.86 across sites and seasons). Various linear models were developed to estimate AA and DTT activities for the central Atlanta Jefferson Street site, based on the CMB-E sources. The models were then used to estimate daily oxidative potential at this site over the 1998–2009 period. Time series epidemiological analyses were conducted to assess daily emergency department (ED) visits data for the five-county Atlanta metropolitan area based on the estimated 10-year backcast oxidative potential. Estimated AA activity was not statistically associated with any tested health outcome, while DTT activity was associated with ED visits for both asthma or wheeze and congestive heart failure. The findings point to the importance of both organic components and transition metals from biomass burning and mobile sources to adverse health outcomes in this region.",
+      "author_str": "T. Fang, V. Verma, J. Bates",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c00494284fadf328991d00bb889b096afdb1a569",
+      "title": "Development and Testing of the OPLS-AA/M Force Field for RNA.",
+      "year": 2019,
+      "citationCount": 79,
+      "openAccessPdf": {
+        "url": "https://europepmc.org/articles/pmc6585454?pdf=render",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/acs.jctc.9b00054?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/acs.jctc.9b00054, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "91865197",
+          "name": "M. Robertson"
+        },
+        {
+          "authorId": "2114897450",
+          "name": "Yue Qian"
+        },
+        {
+          "authorId": "2115091115",
+          "name": "Matthew C Robinson"
+        },
+        {
+          "authorId": "1397703310",
+          "name": "J. Tirado-Rives"
+        },
+        {
+          "authorId": "2107717",
+          "name": "W. L. Jorgensen"
+        }
+      ],
+      "abstract": "Significant improvements have been made to the OPLS-AA force field for modeling RNA. New torsional potentials were optimized based on density functional theory (DFT) scans at the ωB97X-D/6-311++G(d,p) level for potential energy surfaces of the backbone α and γ dihedral angles. In combination with previously reported improvements for the sugar puckering and glycosidic torsion terms, the new force field was validated through diverse molecular dynamics simulations for RNAs in aqueous solution. Results for dinucleotides and tetranucleotides revealed both accurate reproduction of 3 J couplings from NMR and the avoidance of several unphysical states observed with other force fields. Simulations of larger systems with noncanonical motifs showed significant structural improvements over the previous OPLS-AA parameters. The new force field, OPLS-AA/M, is expected to perform competitively with other recent RNA force fields and to be compatible with OPLS-AA models for proteins and small molecules.",
+      "author_str": "M. Robertson, Yue Qian, Matthew C Robinson",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "1a232ada436f72932456409d542f6f727b7e3ba0",
+      "title": "Improved Peptide and Protein Torsional Energetics with the OPLS-AA Force Field",
+      "year": 2015,
+      "citationCount": 739,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1021/acs.jctc.5b00356",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4504185, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "91865197",
+          "name": "M. Robertson"
+        },
+        {
+          "authorId": "1397703310",
+          "name": "J. Tirado-Rives"
+        },
+        {
+          "authorId": "2107717",
+          "name": "W. L. Jorgensen"
+        }
+      ],
+      "abstract": "The development and validation of new peptide dihedral parameters are reported for the OPLS-AA force field. High accuracy quantum chemical methods were used to scan φ, ψ, χ1, and χ2 potential energy surfaces for blocked dipeptides. New Fourier coefficients for the dihedral angle terms of the OPLS-AA force field were fit to these surfaces, utilizing a Boltzmann-weighted error function and systematically examining the effects of weighting temperature. To prevent overfitting to the available data, a minimal number of new residue-specific and peptide-specific torsion terms were developed. Extensive experimental solution-phase and quantum chemical gas-phase benchmarks were used to assess the quality of the new parameters, named OPLS-AA/M, demonstrating significant improvement over previous OPLS-AA force fields. A Boltzmann weighting temperature of 2000 K was determined to be optimal for fitting the new Fourier coefficients for dihedral angle parameters. Conclusions are drawn from the results for best practices for developing new torsion parameters for protein force fields.",
+      "author_str": "M. Robertson, J. Tirado-Rives, W. L. Jorgensen",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d827dca69d5b90bbc6f0afbab2316efae4631a33",
+      "title": "Poly(AA-co-VPA) hydrogel cross-linked with N-maleyl chitosan as dye adsorbent: Isotherms, kinetics and thermodynamic investigation.",
+      "year": 2018,
+      "citationCount": 119,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ijbiomac.2018.05.140?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ijbiomac.2018.05.140, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "46229379",
+          "name": "Mahdi Taghvay Nakhjiri"
+        },
+        {
+          "authorId": "2062796222",
+          "name": "Gholam Bagheri Marandi"
+        },
+        {
+          "authorId": "46253311",
+          "name": "M. Kurdtabar"
+        }
+      ],
+      "abstract": "In this study, hydrogel polymer was synthesized by incorporation of acrylic acid (AA), vinylphosphonic acid (VPA) and N-maleyl chitosan which was prepared through the acylation reaction between maleic anhydride and chitosan. N-maleyl chitosan crosslinked P(AA-co-VPA) hydrogel was utilized for the effective adsorption of crystal violet (CV) and methylene blue (MB) dyes from aqueous solutions. The synthesized hydrogel was characterized by using FTIR, SEM, EDS, TGA-DTA, and DSC methods. The effecting parameters on adsorption of dyes such as initial concentration of dyes, temperature, pH and adsorbent polymer dose were studied. The adsorption isotherm was analyzed in different temperature using Langmuir, Freundlich, Temkin and Redlich-Peterson models and the adsorption data were well described by Redlich-Peterson isotherm model. The adsorption kinetics was analyzed using pseudo first-order, pseudo second-order, intraparticle and film diffusion models in 20, 30, 40 and 50 mg/L of dye solutions and the adsorption data were well described by pseudo-second-order model. The maximum adsorption capacity of the hydrogel polymer for removal of CV and MB in 50 mg/L of dye solutions was 64.56 mg/g and 66.89 mg/g, respectively. Thermodynamic studies recommended that the adsorption process was endothermic and spontaneous. Furthermore, the adsorbent was successfully employed for successive four cycles of adsorption-desorption.",
+      "author_str": "Mahdi Taghvay Nakhjiri, Gholam Bagheri Marandi, M. Kurdtabar",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "2f1d7d0adad16b20d982389a09dceaae979901c6",
+      "title": "Targeting Nrf2/HO-1 signaling by crocin: Role in attenuation of AA-induced ulcerative colitis in rats.",
+      "year": 2019,
+      "citationCount": 74,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.biopha.2018.11.133",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.biopha.2018.11.133?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.biopha.2018.11.133, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "7208247",
+          "name": "Ahmed E Khodir"
+        },
+        {
+          "authorId": "145369307",
+          "name": "Eman Said"
+        },
+        {
+          "authorId": "2267368276",
+          "name": "H. Atif"
+        },
+        {
+          "authorId": "1395418787",
+          "name": "Hassan A. ElKashef"
+        },
+        {
+          "authorId": "144064146",
+          "name": "H. A. Salem"
+        }
+      ],
+      "abstract": "Ulcerative colitis (UC) is usually a mildly active disease; however, it can be associated with serious systemic complications. The current study was undertaken to evaluate the anti-ulcerogenic and coloprotective properties of crocin; the major biologically active ingredient of saffron against experimentally-induced UC, by intracolonic instillation of AA (AA). Rats received either felodipine (3 mg/kg) or crocin (20 mg/kg) orally for 8 successive days as protective and curative therapies. Either as a protective or as a curative remedy, crocin significantly reversed AA-induced colonic damage. Intracolonic AA-induced a significant functional, biochemical and inflammatory colon injury. On the other hand, crocin significantly attenuated AA-induced oxidative, inflammatory and apoptotic activity. Crocin significantly enhanced colon anti-oxidant defenses and reduced colon tumor necrosis factor-α (TNF-α) and Ca+2 contents with down-regulation of the inflammatory response and oxidative load. The anti-ulcerogenic effect of crocin appears to be Ca+2 dependent. Most importantly, crocin enhanced colon Nuclear Factor, Erythroid-Derived 2 like Protein 2 (Nrf2) content and Heme Oxygenase-1 (HO-1) activity and attenuated caspase-3 activity. In conclusion; crocin demonstrated anti-ulcerogenic and coloprotective effect mediated primarily by its antioxidant, anti-inflammatory and anti-apoptotic properties. The therapeutic impact is mediated primarily via enhancement of colon Nrf2 content by 211% in protective protocol and by 350% in curative and HO-1 signaling by 49% in protective protocol and, 288% in the curative protocol. Enhancement of Nrf2 and HO-1 signaling and down-regulation of caspase-3 activity are believed to underly the observed therapeutic effect.",
+      "author_str": "Ahmed E Khodir, Eman Said, H. Atif",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "753c7d392f44192e23a44d0315b4c374e2558020",
+      "title": "Formability of AA 2219-O sheet under quasi-static, electromagnetic dynamic, and mechanical dynamic tensile loadings",
+      "year": 2020,
+      "citationCount": 48,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.JMST.2020.07.023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.JMST.2020.07.023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "7235315",
+          "name": "Hongliang Su"
+        },
+        {
+          "authorId": "2109046769",
+          "name": "Liang Huang"
+        },
+        {
+          "authorId": "92861768",
+          "name": "Jianjun Li"
+        },
+        {
+          "authorId": "2196225244",
+          "name": "X. Wang"
+        },
+        {
+          "authorId": "2115717944",
+          "name": "Hui Zhu"
+        },
+        {
+          "authorId": "2061128311",
+          "name": "Fei Feng"
+        },
+        {
+          "authorId": "2155107964",
+          "name": "Hong-wei Li"
+        },
+        {
+          "authorId": "116297535",
+          "name": "Si-liang Yan"
+        }
+      ],
+      "abstract": "Abstract The mechanism by which electromagnetic forming (EMF) enhances the formability of metals is unclear owing to the coupling effect of multi-physics fields. In the present work, the associated formability improvement mechanisms were qualitatively categorized and illustrated. This was realized by comparing the formability of fully annealed 2219 aluminum alloy (AA 2219-O) sheet under quasi-static (QS), electromagnetic dynamic (EM), and mechanical dynamic (MD) tensile loadings. It was found that the forming limit of AA 2219-O sheet under EM tensile loading was significantly (45.4%) higher than that under QS tensile loading, and was marginally (3.7%–4.3%) higher than that under MD tensile loading. In addition, the forming limit of AA 2219-O sheet demonstrated a negative dependency on the strain rate within the range of the dynamic tensile tests conducted. The deformation conditions common to EM and MD tensile loadings were responsible for the significant formability improvement compared with QS tensile loading. In particular, the inertial effect was dominant. The different deformation conditions that distinguish EM tensile loading from MD tensile loading resulted in the marginal improvement in formability. This was caused by the absence of a sustaining contact force at the later deformation stage and the lower strain rate. The body force exerted little influence on the formability improvement, and the thermal effect under the two dynamic tensile loadings was negligible.",
+      "author_str": "Hongliang Su, Liang Huang, Jianjun Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "cca140522af949b52813d3ae4b9a20d930e1a2a3",
+      "title": "Temperature and Stress Evaluation during Three Different Phases of Friction Stir Welding of AA 7075-T651 Alloy",
+      "year": 2020,
+      "citationCount": 43,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/mse/2020/3197813.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1155/2020/3197813?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1155/2020/3197813, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "69850712",
+          "name": "K. Salloomi"
+        },
+        {
+          "authorId": "103124982",
+          "name": "Furat I. Hussein"
+        },
+        {
+          "authorId": "1573572958",
+          "name": "S. Al-Sumaidae"
+        }
+      ],
+      "abstract": "The current study performs an explicit nonlinear finite element simulation to predict temperature distribution and consequent stresses during the friction stir welding (FSW) of AA 7075-T651 alloy. The ABAQUS® finite element software was used to model and analyze the process steps that involve plunging, dwelling, and traverse stages. Techniques such as Arbitrary Lagrangian–Eulerian (ALE) formulation, adaptive meshing, and computational feature of mass scaling were utilized to simulate sequence events during the friction stir welding process. The contact between the welding tool and workpiece was modelled through applying Coulomb’s friction model with a nonlinear friction coefficient value. Also, the model considered the effect of nonlinear material properties as well as heat transfer conditions such as heat losses due to convection and thermal contact conductance between the workpiece and the backing plate interface on the thermal history. To validate the computational model results, an experimental procedure was carried out to measure temperature history on both sides of the specimen as well as the plunging force throughout the whole process time. The results obtained showed that symmetrical temperature distribution throughout the workpiece width was distinguished, implying that the tool rotation has a minor effect on the final temperature distribution. In addition, asymptotic V shape with high gradient temperature value in the weld nugget region after the full plunging was distinguished. Mechanical stresses and related plastic deformations generated, while achieving the FSW samples were evaluated in addition to the tool reaction force and heat generated to protect against tool failure.",
+      "author_str": "K. Salloomi, Furat I. Hussein, S. Al-Sumaidae",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "15edbc9d1e97b13f596a2d9ede6f551c2cdbdfc0",
+      "title": "Two-dimensional simulation of grain structure growth within selective laser melted AA-2024",
+      "year": 2017,
+      "citationCount": 117,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.matdes.2016.10.031",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.MATDES.2016.10.031?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.MATDES.2016.10.031, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1460358677",
+          "name": "Omar E. López-Botello"
+        },
+        {
+          "authorId": "1401961217",
+          "name": "Uriel Martinez-Hernandez"
+        },
+        {
+          "authorId": "153545359",
+          "name": "J. Ramirez"
+        },
+        {
+          "authorId": "33258824",
+          "name": "C. Pinna"
+        },
+        {
+          "authorId": "78798900",
+          "name": "K. Mumtaz"
+        }
+      ],
+      "abstract": "A two-dimensional Cellular Automata (CA) – Finite Element (FE) (CA-FE) coupled model has been developed to predict the microstructures formed during the laser melting of a powdered AA-2024 feedstock using the Additive Manufacturing (AM) process Selective Laser Melting (SLM). The presented CA model is coupled with a thermal FE model, which computes the heat flow characteristics of the SLM process. The developed model considers the powder-to-liquid-to-solid transformation, tracks the interaction between several melt pools within a melted track, and several tracks within various layers. It was found that the calculated temperature profiles as well as the simulated microstructures bared close resemblance with SLM fabricated AA-2024 samples. The developed model was capable of predicting melt pool cooling and solidification rates, the type of microstructure obtained, the size of the melt pool (with 14% error) and the heat affected zone, average grain size number (with 12% error) and the growth competition present in microstructures of components manufactured via SLM.",
+      "author_str": "Omar E. López-Botello, Uriel Martinez-Hernandez, J. Ramirez",
+      "conclusion": "Unable to process at this time"
+    }
+  ],
+  "contradictions": [
+    {
+      "theme": "Model Size Efficiency",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Larger models with more parameters achieve better performance",
+      "paper_b": "DistilBERT: Smaller Model Faster",
+      "claim_b": "Smaller distilled models can match performance with lower latency"
+    },
+    {
+      "theme": "Positional Encoding Methods",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Absolute positional encoding is sufficient",
+      "paper_b": "RoFormer",
+      "claim_b": "Relative positional encoding captures relationships better"
+    },
+    {
+      "theme": "Fine-tuning vs Few-shot",
+      "paper_a": "BERT: Pre-training",
+      "claim_a": "Task-specific fine-tuning is necessary",
+      "paper_b": "Language Models are Few-shot Learners",
+      "claim_b": "Large models can learn from prompts without fine-tuning"
+    }
+  ],
+  "report": "\n# Literature Review: Transformer Models\n\n## 1. Introduction & Methodological Trends\n\nThe field of Transformer-based neural networks has evolved significantly since the introduction of the Attention Mechanism in 2017. Key methodological trends include:\n\n- **Model Size Scaling**: Progressive increase from 110M (BERT) to 70B+ parameters (LLaMA, Claude)\n- **Architectural Innovations**: Addition of memory mechanisms, sparse attention, and positional encoding variants\n- **Training Paradigm Shifts**: From supervised fine-tuning to in-context learning and prompt-based approaches\n- **Efficiency Focus**: Knowledge distillation, quantization, and pruning to reduce computational costs\n\n## 2. Key Debates & Contradictions\n\n### Debate 1: Model Size vs Efficiency\n- **Position A**: Larger models inherently capture more knowledge (GPT-3, Claude)\n- **Position B**: Well-optimized smaller models can match performance with less compute (DistilBERT, MobileBERT)\n- **Resolution**: Both are valid depending on use case. Large models excel at few-shot learning; small models optimize for inference.\n\n### Debate 2: Fixed vs Learned Positional Encoding\n- **Position A**: Sinusoidal positional encoding captures relationship distances well\n- **Position B**: Learnable positional embeddings adapt to specific tasks\n- **Resolution**: Relative positional encodings (RoFormer, ALiBi) show superior generalization\n\n### Debate 3: Supervised Fine-tuning vs In-Context Learning\n- **Position A**: Task-specific fine-tuning is essential for performance (BERT era)\n- **Position B**: Large models can learn from context without updating parameters (GPT-3+)\n- **Resolution**: Scale is key. Larger models enable in-context learning; smaller models benefit from fine-tuning\n\n## 3. Research Gaps & Next Frontiers\n\n### Gap 1: Interpretability of Attention Distributions\n- **Current Status**: Limited understanding of which attention heads capture meaningful relationships\n- **Proposed Approach**: Systematic study of attention pattern specialization across layers and heads\n- **Impact**: Could lead to more efficient architectures through learned pruning\n\n### Gap 2: Efficiency-Performance Tradeoff\n- **Current Status**: No theoretical framework for optimal model-size-to-performance mapping\n- **Proposed Approach**: Systematic analysis across diverse tasks and compute budgets\n- **Impact**: Enable faster deployment on resource-constrained devices\n\n### Gap 3: Robustness to Distribution Shift\n- **Current Status**: Transformers are brittle to adversarial examples and out-of-distribution inputs\n- **Proposed Approach**: Incorporate uncertainty quantification and robust pretraining objectives\n- **Impact**: Enable deployment in safety-critical domains\n\n## 4. Limitations and Blind Spots (Critical Analysis)\n\nThe current consensus overlooks several important factors:\n\n1. **Environmental Impact**: Training and inference costs are rarely discussed relative to model scales\n2. **Data Quality Bias**: Heavy reliance on Web-scale data introduces demographic and cultural biases\n3. **Context Window Limitations**: Models struggle with truly long-range dependencies despite theoretical ability\n4. **Theoretical Understanding**: Lacking principled understanding of *why* attention works so well\n5. **Domain Generalization**: Strong performance on NLP doesn't guarantee success in other modalities\n\n## 5. Next Steps Research Proposal\n\n### Proposed Investigation: \"Adaptive Transformers for Resource-Constrained Environments\"\n\n**Research Question**: Can we develop a framework for automatically determining optimal Transformer configurations (size, depth, width) for a given compute budget and task?\n\n**Methodology**:\n1. Create a diverse benchmark of 50+ NLP and multimodal tasks\n2. Train Transformers with varying configurations using budget constraints\n3. Build a predictive model mapping task characteristics + budget → optimal config\n4. Validate on held-out tasks\n\n**Expected Outcomes**:\n- Universal scaling laws for Transformers\n- Automated architecture search for resource-constrained deployment\n- 40-60% reduction in computational requirements for target performance levels\n\n**Budget Justification**:\n- GPU-hours for benchmark training: ~500K GPU-hours\n- Personnel: 2-3 researchers for 18 months\n- Estimated cost: $400K-600K\n\n**Impact**:\n- Enable Transformer deployment on edge devices\n- Reduce carbon footprint of model deployment\n- Create reproducible framework for industry resource planning\n\n---\n\n*This review covers 47 papers published between 2017-2025 across ArXiv, papers with 50+ citations.*\n",
+  "concepts": [
+    "neural networks",
+    "optimization",
+    "model training",
+    "deep learning",
+    "attention mechanism"
+  ]
+}

@@ -74,7 +74,27 @@ st.markdown("""
 /* ── base ── */
 html, body, [class*="css"] {
   font-family: 'Inter', sans-serif !important;
-  color: var(--white) !important;
+  color: rgba(255,255,255,0.75) !important;
+}
+
+/* ── input placeholder ── */
+input::placeholder {
+  color: rgba(255,255,255,0.4) !important;
+  opacity: 1 !important;
+}
+
+input {
+  color: rgba(255,255,255,0.8) !important;
+}
+
+/* ── text elements ── */
+p, span, div, label {
+  color: rgba(255,255,255,0.75) !important;
+}
+
+/* ── headers ── */
+h1, h2, h3, h4, h5, h6 {
+  color: rgba(255,255,255,0.9) !important;
 }
 
 /* ── app background — deep black with subtle purple tint ── */
@@ -128,16 +148,20 @@ html, body, [class*="css"] {
   border-right: 1px solid rgba(123,47,255,0.2) !important;
   box-shadow: 4px 0 60px rgba(123,47,255,0.1) !important;
 }
-[data-testid="stSidebar"] * { color: var(--white) !important; }
+[data-testid="stSidebar"] * { color: #e8e8ff !important; }
 
 [data-testid="stSidebar"] .stTextInput input {
   background: rgba(123,47,255,0.08) !important;
   border: 1px solid rgba(123,47,255,0.3) !important;
   border-radius: 12px !important;
-  color: #fff !important;
+  color: rgba(255,255,255,0.8) !important;
   padding: 12px 16px !important;
   font-size: 14px !important;
   transition: all 0.35s ease !important;
+}
+[data-testid="stSidebar"] .stTextInput input::placeholder {
+  color: rgba(255,255,255,0.4) !important;
+  opacity: 1 !important;
 }
 [data-testid="stSidebar"] .stTextInput input:focus {
   border-color: var(--purple-soft) !important;
@@ -188,6 +212,22 @@ html, body, [class*="css"] {
   transform: translateY(-2px) !important;
 }
 
+/* ── sidebar button override ── */
+[data-testid="stSidebar"] .stButton:last-child > button,
+[data-testid="stSidebar"] .stButton:nth-child(2) > button {
+  background: rgba(100, 100, 120, 0.25) !important;
+  border: 1px solid rgba(150, 150, 170, 0.4) !important;
+  color: rgba(255, 255, 255, 0.7) !important;
+  border-radius: 50px !important;
+  font-weight: 600 !important;
+}
+[data-testid="stSidebar"] .stButton:last-child > button:hover,
+[data-testid="stSidebar"] .stButton:nth-child(2) > button:hover {
+  background: rgba(100, 100, 120, 0.4) !important;
+  color: rgba(255, 255, 255, 0.9) !important;
+  box-shadow: 0 0 15px rgba(100, 100, 120, 0.3) !important;
+}
+
 /* ── tabs ── */
 .stTabs [data-baseweb="tab-list"] {
   background: rgba(255,255,255,0.04) !important;
@@ -202,14 +242,14 @@ html, body, [class*="css"] {
   font-size: 13px !important;
   font-weight: 600 !important;
   border-radius: 11px !important;
-  color: var(--muted) !important;
+  color: rgba(255,255,255,0.45) !important;
   padding: 10px 22px !important;
   transition: all 0.3s ease !important;
   letter-spacing: 0.3px !important;
 }
 .stTabs [data-baseweb="tab-list"] button[aria-selected="true"] {
   background: linear-gradient(135deg, rgba(123,47,255,0.35), rgba(183,33,255,0.25)) !important;
-  color: #fff !important;
+  color: rgba(255,255,255,0.9) !important;
   border: 1px solid rgba(123,47,255,0.4) !important;
   box-shadow: 0 0 20px rgba(123,47,255,0.25), inset 0 1px 0 rgba(255,255,255,0.1) !important;
 }
@@ -238,13 +278,13 @@ html, body, [class*="css"] {
   transform: translateY(-5px) !important;
 }
 [data-testid="stMetricValue"] {
-  color: #fff !important;
+  color: rgba(255,255,255,0.9) !important;
   font-family: 'Space Grotesk', sans-serif !important;
   font-size: 2.2rem !important;
   font-weight: 800 !important;
 }
 [data-testid="stMetricLabel"] {
-  color: var(--muted) !important;
+  color: rgba(255,255,255,0.45) !important;
   font-size: 11px !important;
   font-weight: 600 !important;
   text-transform: uppercase !important;
@@ -256,7 +296,7 @@ html, body, [class*="css"] {
   background: rgba(255,255,255,0.03) !important;
   border: 1px solid var(--glass-border) !important;
   border-radius: 14px !important;
-  color: var(--off-white) !important;
+  color: rgba(255,255,255,0.75) !important;
   font-weight: 600 !important;
   transition: all 0.3s ease !important;
   backdrop-filter: blur(12px) !important;
@@ -317,13 +357,13 @@ pre, code {
 }
 
 /* ── markdown ── */
-.stMarkdown p, .stMarkdown li { color: var(--off-white) !important; }
+.stMarkdown p, .stMarkdown li { color: rgba(255,255,255,0.75) !important; }
 .stMarkdown h1,.stMarkdown h2,.stMarkdown h3 {
-  color: #fff !important;
+  color: rgba(255,255,255,0.9) !important;
   font-family: 'Space Grotesk',sans-serif !important;
 }
 .stMarkdown strong { color: var(--purple-soft) !important; }
-.stMarkdown a { color: var(--purple-soft) !important; }
+.stMarkdown a { color: var(--purple-mid) !important; }
 
 /* ── scrollbar ── */
 ::-webkit-scrollbar { width: 5px; height: 5px; }
@@ -1002,7 +1042,7 @@ if st.session_state.research_complete and st.session_state.research_data:
           </span>
         </div>
         <p style="color:rgba(255,255,255,0.4);font-size:13px;margin-bottom:24px;">
-          Hover over nodes to see paper details. Node size reflects citation count.
+          Hover over nodes to see paper details including venue, abstract, and direct links. Node size reflects citation count. Color intensity indicates citation frequency.
         </p>
         """, unsafe_allow_html=True)
 
@@ -1039,11 +1079,21 @@ if st.session_state.research_complete and st.session_state.research_data:
                 if node in paper_map:
                     p = paper_map[node]
                     citations = p.get('citationCount', 0)
+                    year = p.get('year', 'N/A')
+                    authors = p.get('author_str', 'N/A')
+                    abstract = p.get('abstract', 'N/A')[:120] + "..." if p.get('abstract') else 'N/A'
+                    venue = p.get('venue', 'N/A')
+                    url = p.get('url', '')
+
+                    # Build rich hover text with more details
                     node_text.append(
-                        f"<b>{p['title']}</b><br>"
-                        f"Year: {p.get('year','N/A')}<br>"
-                        f"Citations: {citations}<br>"
-                        f"Authors: {p.get('author_str','N/A')[:50]}..."
+                        f"<b style='font-size:13px; color:#c77dff;'>{p['title']}</b><br>"
+                        f"<b>Year:</b> {year}<br>"
+                        f"<b>Citations:</b> {citations}<br>"
+                        f"<b>Venue:</b> {venue}<br>"
+                        f"<b>Authors:</b> {authors[:50]}...<br>"
+                        f"<b>Abstract:</b> {abstract}<br>"
+                        f"{'<b>Link:</b> <a href=\"' + url + '\" target=\"_blank\">View Paper</a>' if url else ''}"
                     )
                     node_colors.append(citations)
                     node_sizes.append(max(15, min(52, citations / 2 + 12)))
@@ -1172,19 +1222,6 @@ if st.session_state.research_complete and st.session_state.research_data:
               ⚡ {len(contradictions)} contradictions detected in the literature
             </div>
             """, unsafe_allow_html=True)
-            try:
-                df = pd.DataFrame(contradictions)
-                st.dataframe(df, use_container_width=True, height=400)
-            except:
-                for idx, contra in enumerate(contradictions, 1):
-                    with st.expander(f"⚡ Contradiction {idx}: {contra.get('theme','N/A')}"):
-                        c1,c2 = st.columns(2)
-                        with c1:
-                            st.write("**Paper A:**"); st.write(contra.get('paper_a','N/A'))
-                            st.write("**Claim A:**"); st.write(contra.get('claim_a','N/A'))
-                        with c2:
-                            st.write("**Paper B:**"); st.write(contra.get('paper_b','N/A'))
-                            st.write("**Claim B:**"); st.write(contra.get('claim_b','N/A'))
 
             st.divider()
             st.markdown('<div style="font-family:Space Grotesk,sans-serif;font-size:18px;font-weight:700;color:#c77dff;margin-bottom:16px;">Analysis by Theme</div>', unsafe_allow_html=True)
