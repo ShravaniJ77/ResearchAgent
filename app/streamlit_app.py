@@ -20,8 +20,10 @@ warnings.filterwarnings('ignore')
 try:
     from pdf_generator import generate_report_bytes
     PDF_AVAILABLE = True
-except ImportError as e:
+except Exception as e:
+    print(f"PDF import error: {e}")
     PDF_AVAILABLE = False
+    generate_report_bytes = None
 
 storage = ResearchStorage(storage_dir="scholarpython_research")
 
@@ -1223,20 +1225,24 @@ if st.session_state.research_complete and st.session_state.research_data:
 
         st.divider()
         st.markdown('<div style="font-family:Space Grotesk,sans-serif;font-size:18px;font-weight:700;color:#c77dff;margin-bottom:16px;">📥 Download Report</div>', unsafe_allow_html=True)
-        try:
-            pdf_data, ext, mime = generate_report_bytes(report, "pdf")
-            st.download_button(
-                "📥 Download PDF Report",
-                data=pdf_data,
-                file_name=f"literature_review_{datetime.now().strftime('%Y%m%d_%H%M%S')}.pdf",
-                mime=mime,
-                use_container_width=True,
-                key="download_pdf"
-            )
-            st.success("✅ PDF Ready — Click to Download")
-        except Exception as e:
-            st.error(f"PDF generation error: {str(e)}")
-            st.info("Please try again")
+
+        if PDF_AVAILABLE and generate_report_bytes:
+            try:
+                pdf_data, ext, mime = generate_report_bytes(report, "pdf")
+                st.download_button(
+                    "📥 Download PDF Report",
+                    data=pdf_data,
+                    file_name=f"literature_review_{datetime.now().strftime('%Y%m%d_%H%M%S')}.pdf",
+                    mime=mime,
+                    use_container_width=True,
+                    key="download_pdf"
+                )
+                st.success("✅ PDF Ready — Click to Download")
+            except Exception as e:
+                st.error(f"PDF generation error: {str(e)}")
+                st.info("Please try again")
+        else:
+            st.warning("⚠️ PDF generation not available. Install reportlab: pip install reportlab")
 
     # ─────────────────── TAB 5: SOURCES ──────────────────────────────────────
     with tab5:
@@ -1328,21 +1334,6 @@ if st.session_state.research_complete and st.session_state.research_data:
             st.info("No saved research yet. Complete a search to save it!")
 
         st.divider()
-        st.markdown("""
-        <div style="background:rgba(123,47,255,0.06);border:1px solid rgba(123,47,255,0.14);
-          border-radius:16px;padding:22px 26px;font-size:13px;
-          color:rgba(255,255,255,0.45);line-height:2.1;">
-          <strong style="color:rgba(199,125,255,0.7);">📍 Storage Location:</strong>
-          <code style="background:rgba(123,47,255,0.12);border:none;color:#9d4edd;padding:2px 8px;border-radius:6px;">
-            scholarpython_research/</code><br>
-          <strong style="color:rgba(199,125,255,0.7);">📁 Contents:</strong><br>
-          &nbsp;&nbsp;• <code style="background:rgba(0,0,0,0.3);border:none;color:#9d4edd;padding:1px 6px;border-radius:5px;">research_data.json</code> — Complete research data<br>
-          &nbsp;&nbsp;• <code style="background:rgba(0,0,0,0.3);border:none;color:#9d4edd;padding:1px 6px;border-radius:5px;">metadata.json</code> — Search metadata<br>
-          &nbsp;&nbsp;• <code style="background:rgba(0,0,0,0.3);border:none;color:#9d4edd;padding:1px 6px;border-radius:5px;">report.md</code> — Literature review report<br>
-          &nbsp;&nbsp;• <code style="background:rgba(0,0,0,0.3);border:none;color:#9d4edd;padding:1px 6px;border-radius:5px;">papers.csv</code> — List of papers<br>
-          &nbsp;&nbsp;• <code style="background:rgba(0,0,0,0.3);border:none;color:#9d4edd;padding:1px 6px;border-radius:5px;">contradictions.json</code> — Contradictions found
-        </div>
-        """, unsafe_allow_html=True)
 
 # ══════════════════════════════════════════════════════════════════════════════
 #  FOOTER
